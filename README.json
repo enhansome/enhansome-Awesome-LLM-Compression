@@ -126,10 +126,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-19T07:08:53Z",
+                "last_commit": "2026-08-19T14:54:42Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42959
+                "stars": 42963
               }
             },
             {
@@ -141,10 +141,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-19T07:08:53Z",
+                "last_commit": "2026-08-19T14:54:42Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42959
+                "stars": 42963
               }
             },
             {
@@ -156,10 +156,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-19T07:08:53Z",
+                "last_commit": "2026-08-19T14:54:42Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42959
+                "stars": 42963
               }
             },
             {
@@ -171,10 +171,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-19T07:08:53Z",
+                "last_commit": "2026-08-19T14:54:42Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42959
+                "stars": 42963
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-19T08:12:39Z",
                 "owner": "Dao-AILab",
                 "repo": "flash-attention",
-                "stars": 24739
+                "stars": 24742
               }
             },
             {
@@ -216,10 +216,10 @@
                 "archived": false,
                 "id": 373674258,
                 "language": "Python",
-                "last_commit": "2026-08-18T16:02:06Z",
+                "last_commit": "2026-08-19T15:51:24Z",
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8427
+                "stars": 8429
               }
             },
             {
@@ -234,7 +234,7 @@
                 "last_commit": "2026-01-17T17:43:28Z",
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3654
+                "stars": 3655
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2025-07-17T19:44:51Z",
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3619
+                "stars": 3618
               }
             },
             {
@@ -261,7 +261,7 @@
                 "archived": false,
                 "id": 281528773,
                 "language": "Python",
-                "last_commit": "2026-08-19T02:50:41Z",
+                "last_commit": "2026-08-19T15:49:40Z",
                 "owner": "intel",
                 "repo": "neural-compressor",
                 "stars": 2697
@@ -276,7 +276,7 @@
                 "archived": false,
                 "id": 281528773,
                 "language": "Python",
-                "last_commit": "2026-08-19T02:50:41Z",
+                "last_commit": "2026-08-19T15:49:40Z",
                 "owner": "intel",
                 "repo": "neural-compressor",
                 "stars": 2697
@@ -336,10 +336,10 @@
                 "archived": false,
                 "id": 738776129,
                 "language": "Python",
-                "last_commit": "2026-08-19T10:00:15Z",
+                "last_commit": "2026-08-19T15:01:52Z",
                 "owner": "intel",
                 "repo": "auto-round",
-                "stars": 1569
+                "stars": 1570
               }
             },
             {
@@ -414,7 +414,7 @@
                 "last_commit": "2025-03-06T03:22:14Z",
                 "owner": "mit-han-lab",
                 "repo": "omniserve",
-                "stars": 853
+                "stars": 854
               }
             },
             {
@@ -2251,7 +2251,7 @@
                 "last_commit": "2025-08-18T09:14:50Z",
                 "owner": "FabrizioSandri",
                 "repo": "2SSP",
-                "stars": 21
+                "stars": 22
               }
             },
             {
@@ -2805,7 +2805,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6582
+                "stars": 6584
               }
             },
             {
@@ -2820,7 +2820,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6582
+                "stars": 6584
               }
             },
             {
@@ -2835,7 +2835,7 @@
                 "last_commit": "2026-04-08T18:59:13Z",
                 "owner": "microsoft",
                 "repo": "LLMLingua",
-                "stars": 6582
+                "stars": 6584
               }
             },
             {
@@ -3142,7 +3142,7 @@
                 "last_commit": "2024-08-16T02:42:22Z",
                 "owner": "PaddlePaddle",
                 "repo": "Research",
-                "stars": 1761
+                "stars": 1762
               }
             },
             {
@@ -3584,7 +3584,7 @@
                 "last_commit": "2026-08-19T08:12:39Z",
                 "owner": "Dao-AILab",
                 "repo": "flash-attention",
-                "stars": 24739
+                "stars": 24742
               }
             },
             {
@@ -3599,7 +3599,7 @@
                 "last_commit": "2026-05-11T06:48:06Z",
                 "owner": "Tiiny-AI",
                 "repo": "PowerInfer",
-                "stars": 9720
+                "stars": 9722
               }
             },
             {
@@ -3629,7 +3629,7 @@
                 "last_commit": "2026-01-17T17:43:28Z",
                 "owner": "thu-ml",
                 "repo": "SageAttention",
-                "stars": 3654
+                "stars": 3655
               }
             },
             {
@@ -3689,7 +3689,7 @@
                 "last_commit": "2025-11-24T09:46:56Z",
                 "owner": "LeanModels",
                 "repo": "DFloat11",
-                "stars": 654
+                "stars": 655
               }
             },
             {
@@ -4057,10 +4057,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-19T10:38:36Z",
+            "last_commit": "2026-08-19T21:12:45Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144549
+            "stars": 144576
           }
         },
         {
@@ -4072,10 +4072,10 @@
             "archived": false,
             "id": 612354784,
             "language": "C++",
-            "last_commit": "2026-08-19T12:04:57Z",
+            "last_commit": "2026-08-19T20:35:17Z",
             "owner": "ggml-org",
             "repo": "llama.cpp",
-            "stars": 124656
+            "stars": 124720
           }
         },
         {
@@ -4087,10 +4087,10 @@
             "archived": false,
             "id": 599547518,
             "language": "Python",
-            "last_commit": "2026-08-19T11:38:35Z",
+            "last_commit": "2026-08-19T21:07:40Z",
             "owner": "vllm-project",
             "repo": "vllm",
-            "stars": 89432
+            "stars": 89468
           }
         },
         {
@@ -4105,7 +4105,7 @@
             "last_commit": "2026-08-18T11:49:47Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74227
+            "stars": 74232
           }
         },
         {
@@ -4120,7 +4120,7 @@
             "last_commit": "2026-08-18T11:49:47Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74227
+            "stars": 74232
           }
         },
         {
@@ -4147,10 +4147,10 @@
             "archived": false,
             "id": 176982014,
             "language": "Python",
-            "last_commit": "2026-08-19T11:35:36Z",
+            "last_commit": "2026-08-19T21:15:04Z",
             "owner": "NVIDIA",
             "repo": "Megatron-LM",
-            "stars": 17479
+            "stars": 17487
           }
         },
         {
@@ -4177,10 +4177,10 @@
             "archived": false,
             "id": 679366051,
             "language": "Python",
-            "last_commit": "2026-08-19T11:36:38Z",
+            "last_commit": "2026-08-19T21:15:18Z",
             "owner": "NVIDIA",
             "repo": "TensorRT-LLM",
-            "stars": 14418
+            "stars": 14419
           }
         },
         {
@@ -4207,10 +4207,10 @@
             "archived": false,
             "id": 373674258,
             "language": "Python",
-            "last_commit": "2026-08-18T16:02:06Z",
+            "last_commit": "2026-08-19T15:51:24Z",
             "owner": "bitsandbytes-foundation",
             "repo": "bitsandbytes",
-            "stars": 8427
+            "stars": 8429
           }
         },
         {
@@ -4327,7 +4327,7 @@
             "archived": false,
             "id": 281528773,
             "language": "Python",
-            "last_commit": "2026-08-19T02:50:41Z",
+            "last_commit": "2026-08-19T15:49:40Z",
             "owner": "intel",
             "repo": "neural-compressor",
             "stars": 2697
@@ -4728,7 +4728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:07:46.896Z",
+    "last_updated": "2026-08-19T21:16:16.154Z",
     "original_repository": "HuangOwen/Awesome-LLM-Compression",
     "original_repository_id": 647138126,
     "original_repository_sha": "97dec3068d1505b50aab465cb9ab5981aa0cdedf",
