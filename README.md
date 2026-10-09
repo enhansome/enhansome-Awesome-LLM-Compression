@@ -60,7 +60,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * A Survey on Collaborating Small and Large Language Models for Performance, Cost-effectiveness, Cloud-edge Privacy, and Trustworthiness <br> Arxiv 2025 [\[Paper\]](https://arxiv.org/abs/2510.13890) [\[Code\]](https://github.com/FairyFali/SLMs-Survey) ⭐ 261 | 🐛 1 | 📅 2025-11-06 [![Stars](https://img.shields.io/github/stars/FairyFali/SLMs-Survey?style=social)](https://github.com/FairyFali/SLMs-Survey) ⭐ 261 | 🐛 1 | 📅 2025-11-06
 
-* A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency <br> Arxiv 2025 [\[Paper\]](https://arxiv.org/abs/2505.01658) [\[GitHub Page\]](https://github.com/sihyeong/Awesome-LLM-Inference-Engine) ⭐ 247 | 🐛 1 | 📅 2026-10-07
+* A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency <br> Arxiv 2025 [\[Paper\]](https://arxiv.org/abs/2505.01658) [\[GitHub Page\]](https://github.com/sihyeong/Awesome-LLM-Inference-Engine) ⭐ 247 | 🐛 2 | 📅 2026-10-07
 
 * Low-Precision Training of Large Language Models: Methods, Challenges, and Opportunities <br> Arxiv 2025 [\[Paper\]](https://arxiv.org/abs/2505.01043) [\[GitHub Page\]](https://github.com/Hao840/Awesome-Low-Precision-Training) ⭐ 72 | 🐛 0 | 📅 2025-05-10
 
@@ -145,7 +145,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details open>
 <summary><b>2026</b> &nbsp;·&nbsp; 56 papers</summary>
 
-* Sherry: Hardware-Efficient 1.25-Bit Ternary Quantization via Fine-grained Sparsification <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2601.07892) [\[Code\]](https://github.com/Tencent/AngelSlim) ⭐ 1,746 | 🐛 67 | 🌐 Python | 📅 2026-10-01 [![Stars](https://img.shields.io/github/stars/Tencent/AngelSlim?style=social)](https://github.com/Tencent/AngelSlim) ⭐ 1,746 | 🐛 67 | 🌐 Python | 📅 2026-10-01
+* Sherry: Hardware-Efficient 1.25-Bit Ternary Quantization via Fine-grained Sparsification <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2601.07892) [\[Code\]](https://github.com/Tencent/AngelSlim) ⭐ 1,752 | 🐛 68 | 🌐 Python | 📅 2026-10-01 [![Stars](https://img.shields.io/github/stars/Tencent/AngelSlim?style=social)](https://github.com/Tencent/AngelSlim) ⭐ 1,752 | 🐛 68 | 🌐 Python | 📅 2026-10-01
 
 * OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2603.28845) [\[Code\]](https://github.com/FujitsuResearch/OneCompression) ⭐ 434 | 🐛 7 | 🌐 Python | 📅 2026-10-06 [![Stars](https://img.shields.io/github/stars/FujitsuResearch/OneCompression?style=social)](https://github.com/FujitsuResearch/OneCompression) ⭐ 434 | 🐛 7 | 🌐 Python | 📅 2026-10-06
 
@@ -161,7 +161,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * Quantized Evolution Strategies: High-precision Fine-tuning of Quantized LLMs at Low-precision Cost <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2602.03120) [\[Code\]](https://github.com/dibbla/Quantized-Evolution-Strategies) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-05-14 [![Stars](https://img.shields.io/github/stars/dibbla/Quantized-Evolution-Strategies?style=social)](https://github.com/dibbla/Quantized-Evolution-Strategies) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-05-14
 
-* Statistically-Lossless Quantization of Large Language Models <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2605.02404) [\[Code\]](https://github.com/IST-DASLab/SLQ) ⭐ 17 | 🐛 1 | 📅 2026-05-04 [![Stars](https://img.shields.io/github/stars/IST-DASLab/SLQ?style=social)](https://github.com/IST-DASLab/SLQ) ⭐ 17 | 🐛 1 | 📅 2026-05-04
+* Statistically-Lossless Quantization of Large Language Models <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2605.02404) [\[Code\]](https://github.com/IST-DASLab/SLQ) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/IST-DASLab/SLQ?style=social)](https://github.com/IST-DASLab/SLQ) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2026-10-08
 
 * XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2605.14844) [\[Code\]](https://github.com/flash7777/vllm) ⭐ 16 | 🐛 0 | 📅 2026-07-31 [![Stars](https://img.shields.io/github/stars/flash7777/vllm?style=social)](https://github.com/flash7777/vllm) ⭐ 16 | 🐛 0 | 📅 2026-07-31
 
@@ -262,15 +262,15 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2025</b> &nbsp;·&nbsp; 118 papers</summary>
 
-* SignRoundV2: Toward Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs <br> Arxiv 2025 [\[Paper\]](https://arxiv.org/abs/2512.04746) [\[Code\]](https://github.com/intel/auto-round) ⭐ 1,628 | 🐛 99 | 🌐 Python | 📅 2026-10-05 [![Stars](https://img.shields.io/github/stars/intel/auto-round?style=social)](https://github.com/intel/auto-round) ⭐ 1,628 | 🐛 99 | 🌐 Python | 📅 2026-10-05
+* SignRoundV2: Toward Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs <br> Arxiv 2025 [\[Paper\]](https://arxiv.org/abs/2512.04746) [\[Code\]](https://github.com/intel/auto-round) ⭐ 1,629 | 🐛 103 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/intel/auto-round?style=social)](https://github.com/intel/auto-round) ⭐ 1,629 | 🐛 103 | 🌐 Python | 📅 2026-10-08
 
-* QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs <br> Arxiv 2025 [\[Paper\]](https://arxiv.org/abs/2510.11696) [\[Code\]](https://github.com/NVlabs/QeRL) ⭐ 522 | 🐛 10 | 🌐 Python | 📅 2026-03-30 [![Stars](https://img.shields.io/github/stars/NVlabs/QeRL?style=social)](https://github.com/NVlabs/QeRL) ⭐ 522 | 🐛 10 | 🌐 Python | 📅 2026-03-30
+* QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs <br> Arxiv 2025 [\[Paper\]](https://arxiv.org/abs/2510.11696) [\[Code\]](https://github.com/NVlabs/QeRL) ⭐ 523 | 🐛 10 | 🌐 Python | 📅 2026-03-30 [![Stars](https://img.shields.io/github/stars/NVlabs/QeRL?style=social)](https://github.com/NVlabs/QeRL) ⭐ 523 | 🐛 10 | 🌐 Python | 📅 2026-03-30
 
 * ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference <br> ICLR 2026 [\[Paper\]](https://arxiv.org/abs/2511.10645) [\[Code\]](https://github.com/z-lab/paroquant) ⭐ 342 | 🐛 14 | 🌐 Python | 📅 2026-08-19 [![Stars](https://img.shields.io/github/stars/z-lab/paroquant?style=social)](https://github.com/z-lab/paroquant) ⭐ 342 | 🐛 14 | 🌐 Python | 📅 2026-08-19
 
-* OstQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting <br> ICLR 2025 [\[Paper\]](https://arxiv.org/abs/2501.13987) [\[Code\]](https://github.com/BrotherHappy/OSTQuant) ⭐ 96 | 🐛 16 | 🌐 Python | 📅 2025-04-08 [![Stars](https://img.shields.io/github/stars/BrotherHappy/OSTQuant?style=social)](https://github.com/BrotherHappy/OSTQuant) ⭐ 96 | 🐛 16 | 🌐 Python | 📅 2025-04-08
+* GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration <br> ICML 2025 [\[Paper\]](https://arxiv.org/abs/2504.02692) [\[Code\]](https://github.com/Intelligent-Computing-Lab-Panda/GPTAQ) ⭐ 97 | 🐛 1 | 🌐 Python | 📅 2025-07-28 [![Stars](https://img.shields.io/github/stars/Intelligent-Computing-Lab-Panda/GPTAQ?style=social)](https://github.com/Intelligent-Computing-Lab-Panda/GPTAQ) ⭐ 97 | 🐛 1 | 🌐 Python | 📅 2025-07-28
 
-* GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration <br> ICML 2025 [\[Paper\]](https://arxiv.org/abs/2504.02692) [\[Code\]](https://github.com/Intelligent-Computing-Lab-Panda/GPTAQ) ⭐ 96 | 🐛 1 | 🌐 Python | 📅 2025-07-28 [![Stars](https://img.shields.io/github/stars/Intelligent-Computing-Lab-Panda/GPTAQ?style=social)](https://github.com/Intelligent-Computing-Lab-Panda/GPTAQ) ⭐ 96 | 🐛 1 | 🌐 Python | 📅 2025-07-28
+* OstQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting <br> ICLR 2025 [\[Paper\]](https://arxiv.org/abs/2501.13987) [\[Code\]](https://github.com/BrotherHappy/OSTQuant) ⭐ 96 | 🐛 16 | 🌐 Python | 📅 2025-04-08 [![Stars](https://img.shields.io/github/stars/BrotherHappy/OSTQuant?style=social)](https://github.com/BrotherHappy/OSTQuant) ⭐ 96 | 🐛 16 | 🌐 Python | 📅 2025-04-08
 
 * GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance <br> ICML 2025 [\[Paper\]](https://arxiv.org/abs/2505.07004) [\[Code\]](https://github.com/snu-mllab/GuidedQuant) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2026-04-13 [![Stars](https://img.shields.io/github/stars/snu-mllab/GuidedQuant?style=social)](https://github.com/snu-mllab/GuidedQuant) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2026-04-13
 
@@ -503,13 +503,13 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2024</b> &nbsp;·&nbsp; 162 papers</summary>
 
-* FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision <br> Arxiv 2024 [\[Paper\]](https://arxiv.org/abs/2407.08608) [\[Code\]](https://github.com/Dao-AILab/flash-attention) ⭐ 25,100 | 🐛 1,337 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/Dao-AILab/flash-attention?style=social)](https://github.com/Dao-AILab/flash-attention) ⭐ 25,100 | 🐛 1,337 | 🌐 Python | 📅 2026-10-07
+* FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision <br> Arxiv 2024 [\[Paper\]](https://arxiv.org/abs/2407.08608) [\[Code\]](https://github.com/Dao-AILab/flash-attention) ⭐ 25,105 | 🐛 1,340 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/Dao-AILab/flash-attention?style=social)](https://github.com/Dao-AILab/flash-attention) ⭐ 25,105 | 🐛 1,340 | 🌐 Python | 📅 2026-10-07
 
-* SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization <br> ICML 2025 [\[Paper\]](https://arxiv.org/abs/2411.10958) [\[Code\]](https://github.com/thu-ml/SageAttention) ⭐ 3,961 | 🐛 213 | 🌐 Cuda | 📅 2026-01-17 [![Stars](https://img.shields.io/github/stars/thu-ml/SageAttention?style=social)](https://github.com/thu-ml/SageAttention) ⭐ 3,961 | 🐛 213 | 🌐 Cuda | 📅 2026-01-17
+* SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization <br> ICML 2025 [\[Paper\]](https://arxiv.org/abs/2411.10958) [\[Code\]](https://github.com/thu-ml/SageAttention) ⭐ 3,963 | 🐛 213 | 🌐 Cuda | 📅 2026-01-17 [![Stars](https://img.shields.io/github/stars/thu-ml/SageAttention?style=social)](https://github.com/thu-ml/SageAttention) ⭐ 3,963 | 🐛 213 | 🌐 Cuda | 📅 2026-01-17
 
 * Extreme Compression of Large Language Models via Additive Quantization <br> ICML 2024 [\[Paper\]](https://arxiv.org/abs/2401.06118) [\[Code\]](https://github.com/Vahe1994/AQLM) ⭐ 1,328 | 🐛 15 | 🌐 Python | 📅 2026-02-26 [![Stars](https://img.shields.io/github/stars/Vahe1994/AQLM?style=social)](https://github.com/Vahe1994/AQLM) ⭐ 1,328 | 🐛 15 | 🌐 Python | 📅 2026-02-26
 
-* MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models <br> Arxiv 2024 [\[Paper\]](https://arxiv.org/abs/2408.11743) [\[Code (Marlin)\]](https://github.com/IST-DASLab/marlin) ⭐ 1,153 | 🐛 37 | 🌐 Python | 📅 2024-09-04 [\[Code (Sparse Marlin)\]](https://github.com/IST-DASLab/Sparse-Marlin) ⭐ 101 | 🐛 2 | 🌐 Cuda | 📅 2024-09-04 [![Stars](https://img.shields.io/github/stars/IST-DASLab/marlin?style=social)](https://github.com/IST-DASLab/marlin) ⭐ 1,153 | 🐛 37 | 🌐 Python | 📅 2024-09-04
+* MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models <br> Arxiv 2024 [\[Paper\]](https://arxiv.org/abs/2408.11743) [\[Code (Marlin)\]](https://github.com/IST-DASLab/marlin) ⭐ 1,154 | 🐛 37 | 🌐 Python | 📅 2024-09-04 [\[Code (Sparse Marlin)\]](https://github.com/IST-DASLab/Sparse-Marlin) ⭐ 101 | 🐛 2 | 🌐 Cuda | 📅 2024-09-04 [![Stars](https://img.shields.io/github/stars/IST-DASLab/marlin?style=social)](https://github.com/IST-DASLab/marlin) ⭐ 1,154 | 🐛 37 | 🌐 Python | 📅 2024-09-04
 
 * T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge <br> EuroSys 2025 [\[Paper\]](https://arxiv.org/abs/2407.00088) [\[Code\]](https://github.com/microsoft/T-MAC) ⭐ 995 | 🐛 47 | 🌐 C++ | 📅 2025-06-05 [![Stars](https://img.shields.io/github/stars/microsoft/T-MAC?style=social)](https://github.com/microsoft/T-MAC) ⭐ 995 | 🐛 47 | 🌐 C++ | 📅 2025-06-05
 
@@ -525,7 +525,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * Fast Matrix Multiplications for Lookup Table-Quantized LLMs <br> EMNLP Findings 2024 [\[Paper\]](https://arxiv.org/abs/2407.10960) [\[Code\]](https://github.com/HanGuo97/flute) ⭐ 395 | 🐛 11 | 🌐 C++ | 📅 2025-04-13 [![Stars](https://img.shields.io/github/stars/HanGuo97/flute?style=social)](https://github.com/HanGuo97/flute) ⭐ 395 | 🐛 11 | 🌐 C++ | 📅 2025-04-13
 
-* EfficientQAT: Efficient Quantization-Aware Training for Large Language Models <br> ACL 2025 [\[Paper\]](https://arxiv.org/abs/2407.11062) [\[Code\]](https://github.com/OpenGVLab/EfficientQAT) ⭐ 351 | 🐛 13 | 🌐 Python | 📅 2026-04-10 [![Stars](https://img.shields.io/github/stars/OpenGVLab/EfficientQAT?style=social)](https://github.com/OpenGVLab/EfficientQAT) ⭐ 351 | 🐛 13 | 🌐 Python | 📅 2026-04-10
+* EfficientQAT: Efficient Quantization-Aware Training for Large Language Models <br> ACL 2025 [\[Paper\]](https://arxiv.org/abs/2407.11062) [\[Code\]](https://github.com/OpenGVLab/EfficientQAT) ⭐ 352 | 🐛 13 | 🌐 Python | 📅 2026-04-10 [![Stars](https://img.shields.io/github/stars/OpenGVLab/EfficientQAT?style=social)](https://github.com/OpenGVLab/EfficientQAT) ⭐ 352 | 🐛 13 | 🌐 Python | 📅 2026-04-10
 
 * COAT: Compressing Optimizer states and Activation for Memory-Efficient FP8 Training <br> ICLR 2025 [\[Paper\]](https://arxiv.org/abs/2410.19313) [\[Code\]](https://github.com/NVlabs/COAT) ⭐ 268 | 🐛 7 | 🌐 Python | 📅 2025-08-09 [![Stars](https://img.shields.io/github/stars/NVlabs/COAT?style=social)](https://github.com/NVlabs/COAT) ⭐ 268 | 🐛 7 | 🌐 Python | 📅 2025-08-09
 
@@ -832,23 +832,23 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2023</b> &nbsp;·&nbsp; 75 papers</summary>
 
-* FlexRound: Learnable Rounding based on Element-wise Division for Post-Training Quantization <br> ICML 2023 [\[Paper\]](https://arxiv.org/abs/2306.00317) [\[Code (DeepSpeed)\]](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,206 | 🐛 1,516 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social)](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,206 | 🐛 1,516 | 🌐 Python | 📅 2026-10-07
+* FlexRound: Learnable Rounding based on Element-wise Division for Post-Training Quantization <br> ICML 2023 [\[Paper\]](https://arxiv.org/abs/2306.00317) [\[Code (DeepSpeed)\]](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,209 | 🐛 1,522 | 🌐 Python | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social)](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,209 | 🐛 1,522 | 🌐 Python | 📅 2026-10-09
 
-* ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation <br> AAAI 2024 [\[Paper\]](https://arxiv.org/abs/2303.08302) [\[Code\]](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,206 | 🐛 1,516 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social)](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,206 | 🐛 1,516 | 🌐 Python | 📅 2026-10-07
+* ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation <br> AAAI 2024 [\[Paper\]](https://arxiv.org/abs/2303.08302) [\[Code\]](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,209 | 🐛 1,522 | 🌐 Python | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social)](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,209 | 🐛 1,522 | 🌐 Python | 📅 2026-10-09
 
-* ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats <br> Arxiv 2023 [\[Paper\]](https://arxiv.org/abs/2307.09782) [\[Code (DeepSpeed)\]](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,206 | 🐛 1,516 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social)](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,206 | 🐛 1,516 | 🌐 Python | 📅 2026-10-07
+* ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats <br> Arxiv 2023 [\[Paper\]](https://arxiv.org/abs/2307.09782) [\[Code (DeepSpeed)\]](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,209 | 🐛 1,522 | 🌐 Python | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social)](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,209 | 🐛 1,522 | 🌐 Python | 📅 2026-10-09
 
-* QLoRA: Efficient Finetuning of Quantized LLMs <br> NeurIPS 2023 [\[Paper\]](https://arxiv.org/abs/2305.14314) [\[Code\]](https://github.com/artidoro/qlora) ⭐ 11,035 | 🐛 207 | 🌐 Jupyter Notebook | 📅 2024-06-10 [![Stars](https://img.shields.io/github/stars/artidoro/qlora?style=social)](https://github.com/artidoro/qlora) ⭐ 11,035 | 🐛 207 | 🌐 Jupyter Notebook | 📅 2024-06-10
+* QLoRA: Efficient Finetuning of Quantized LLMs <br> NeurIPS 2023 [\[Paper\]](https://arxiv.org/abs/2305.14314) [\[Code\]](https://github.com/artidoro/qlora) ⭐ 11,037 | 🐛 207 | 🌐 Jupyter Notebook | 📅 2024-06-10 [![Stars](https://img.shields.io/github/stars/artidoro/qlora?style=social)](https://github.com/artidoro/qlora) ⭐ 11,037 | 🐛 207 | 🌐 Jupyter Notebook | 📅 2024-06-10
 
 * AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration <br> MLSys 2024 (Best Paper 🏆) [\[Paper\]](https://arxiv.org/abs/2306.00978) [\[Code\]](https://github.com/mit-han-lab/llm-awq) ⭐ 3,649 | 🐛 210 | 🌐 Python | 📅 2025-07-17 [![Stars](https://img.shields.io/github/stars/mit-han-lab/llm-awq?style=social)](https://github.com/mit-han-lab/llm-awq) ⭐ 3,649 | 🐛 210 | 🌐 Python | 📅 2025-07-17
 
-* Efficient Post-training Quantization with FP8 Formats <br> MLSys 2024 [\[Paper\]](https://arxiv.org/abs/2309.14592) [\[Code (Intel® Neural Compressor)\]](https://github.com/intel/neural-compressor) ⭐ 2,713 | 🐛 29 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/intel/neural-compressor?style=social)](https://github.com/intel/neural-compressor) ⭐ 2,713 | 🐛 29 | 🌐 Python | 📅 2026-10-07
+* Efficient Post-training Quantization with FP8 Formats <br> MLSys 2024 [\[Paper\]](https://arxiv.org/abs/2309.14592) [\[Code (Intel® Neural Compressor)\]](https://github.com/intel/neural-compressor) ⭐ 2,713 | 🐛 28 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/intel/neural-compressor?style=social)](https://github.com/intel/neural-compressor) ⭐ 2,713 | 🐛 28 | 🌐 Python | 📅 2026-10-08
 
-* TEQ: Trainable Equivalent Transformation for Quantization of LLMs <br> Arxiv 2023 [\[Paper\]](https://arxiv.org/abs/2310.10944) [\[Code (Intel® Neural Compressor)\]](https://github.com/intel/neural-compressor) ⭐ 2,713 | 🐛 29 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/intel/neural-compressor?style=social)](https://github.com/intel/neural-compressor) ⭐ 2,713 | 🐛 29 | 🌐 Python | 📅 2026-10-07
+* TEQ: Trainable Equivalent Transformation for Quantization of LLMs <br> Arxiv 2023 [\[Paper\]](https://arxiv.org/abs/2310.10944) [\[Code (Intel® Neural Compressor)\]](https://github.com/intel/neural-compressor) ⭐ 2,713 | 🐛 28 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/intel/neural-compressor?style=social)](https://github.com/intel/neural-compressor) ⭐ 2,713 | 🐛 28 | 🌐 Python | 📅 2026-10-08
 
 * Efficient LLM Inference on CPUs <br> NeurIPS 2023 on Efficient Natural Language and Speech Processing [\[Paper\]](https://arxiv.org/abs/2311.00502) [\[Code\]](https://github.com/intel/intel-extension-for-transformers) ⚠️ Archived [![Stars](https://img.shields.io/github/stars/intel/intel-extension-for-transformers?style=social)](https://github.com/intel/intel-extension-for-transformers) ⚠️ Archived
 
-* Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs <br> EMNLP Findings 2024 [\[Paper\]](https://arxiv.org/abs/2309.05516) [\[Code\]](https://github.com/intel/auto-round) ⭐ 1,628 | 🐛 99 | 🌐 Python | 📅 2026-10-05 [![Stars](https://img.shields.io/github/stars/intel/auto-round?style=social)](https://github.com/intel/auto-round) ⭐ 1,628 | 🐛 99 | 🌐 Python | 📅 2026-10-05
+* Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs <br> EMNLP Findings 2024 [\[Paper\]](https://arxiv.org/abs/2309.05516) [\[Code\]](https://github.com/intel/auto-round) ⭐ 1,629 | 🐛 103 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/intel/auto-round?style=social)](https://github.com/intel/auto-round) ⭐ 1,629 | 🐛 103 | 🌐 Python | 📅 2026-10-08
 
 * OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models <br> ICLR 2024 [\[Paper\]](https://arxiv.org/abs/2308.13137) [\[Code\]](https://github.com/OpenGVLab/OmniQuant) ⭐ 959 | 🐛 33 | 🌐 Python | 📅 2025-11-26 [![Stars](https://img.shields.io/github/stars/OpenGVLab/OmniQuant?style=social)](https://github.com/OpenGVLab/OmniQuant) ⭐ 959 | 🐛 33 | 🌐 Python | 📅 2025-11-26
 
@@ -860,7 +860,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * Atom: Low-bit Quantization for Efficient and Accurate LLM Serving <br> MLSys 2024 [\[Paper\]](https://arxiv.org/abs/2310.19102) [\[Code\]](https://github.com/efeslab/Atom) ⭐ 348 | 🐛 5 | 🌐 Cuda | 📅 2024-07-02 [![Stars](https://img.shields.io/github/stars/efeslab/Atom?style=social)](https://github.com/efeslab/Atom) ⭐ 348 | 🐛 5 | 🌐 Cuda | 📅 2024-07-02
 
-* LLM-QAT: Data-Free Quantization Aware Training for Large Language Models <br> ACL Findings 2024 [\[Paper\]](https://arxiv.org/abs/2305.17888) [\[Code\]](https://github.com/facebookresearch/LLM-QAT) ⭐ 328 | 🐛 10 | 🌐 Python | 📅 2025-03-04 [![Stars](https://img.shields.io/github/stars/facebookresearch/LLM-QAT?style=social)](https://github.com/facebookresearch/LLM-QAT) ⭐ 328 | 🐛 10 | 🌐 Python | 📅 2025-03-04
+* LLM-QAT: Data-Free Quantization Aware Training for Large Language Models <br> ACL Findings 2024 [\[Paper\]](https://arxiv.org/abs/2305.17888) [\[Code\]](https://github.com/facebookresearch/LLM-QAT) ⭐ 329 | 🐛 10 | 🌐 Python | 📅 2025-03-04 [![Stars](https://img.shields.io/github/stars/facebookresearch/LLM-QAT?style=social)](https://github.com/facebookresearch/LLM-QAT) ⭐ 329 | 🐛 10 | 🌐 Python | 📅 2025-03-04
 
 * BitNet: Scaling 1-bit Transformers for Large Language Models <br> Arxiv 2023 [\[Paper\]](https://arxiv.org/abs/2310.11453)  [\[Code\]](https://github.com/Beomi/BitNet-Transformers) ⭐ 317 | 🐛 8 | 🌐 Python | 📅 2024-03-17 [![Stars](https://img.shields.io/github/stars/Beomi/BitNet-Transformers?style=social)](https://github.com/Beomi/BitNet-Transformers) ⭐ 317 | 🐛 8 | 🌐 Python | 📅 2024-03-17
 
@@ -876,7 +876,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models <br> ICLR 2024 [\[Paper\]](https://arxiv.org/abs/2309.14717) [\[Code\]](https://github.com/yuhuixu1993/qa-lora) ⭐ 148 | 🐛 26 | 🌐 Python | 📅 2024-03-13 [![Stars](https://img.shields.io/github/stars/yuhuixu1993/qa-lora?style=social)](https://github.com/yuhuixu1993/qa-lora) ⭐ 148 | 🐛 26 | 🌐 Python | 📅 2024-03-13
 
-* INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers <br> Arxiv 2023 [\[Paper\]](https://arxiv.org/abs/2307.03712) [\[Code\]](https://github.com/lightmatter-ai/INT-FP-QSim) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2023-07-10 [![Stars](https://img.shields.io/github/stars/lightmatter-ai/INT-FP-QSim?style=social)](https://github.com/lightmatter-ai/INT-FP-QSim) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2023-07-10
+* INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers <br> Arxiv 2023 [\[Paper\]](https://arxiv.org/abs/2307.03712) [\[Code\]](https://github.com/lightmatter-ai/INT-FP-QSim) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2023-07-10 [![Stars](https://img.shields.io/github/stars/lightmatter-ai/INT-FP-QSim?style=social)](https://github.com/lightmatter-ai/INT-FP-QSim) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2023-07-10
 
 * Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing <br> NeurIPS 2023 [\[Paper\]](https://arxiv.org/abs/2306.12929) [\[Code\]](https://github.com/Qualcomm-AI-research/outlier-free-transformers) ⭐ 47 | 🐛 4 | 🌐 Python | 📅 2023-12-20 [![Stars](https://img.shields.io/github/stars/Qualcomm-AI-research/outlier-free-transformers?style=social)](https://github.com/Qualcomm-AI-research/outlier-free-transformers) ⭐ 47 | 🐛 4 | 🌐 Python | 📅 2023-12-20
 
@@ -987,13 +987,13 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2022</b> &nbsp;·&nbsp; 6 papers</summary>
 
-* ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [\[Paper\]](https://arxiv.org/abs/2206.01861) [\[Code (DeepSpeed)\]](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,206 | 🐛 1,516 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social)](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,206 | 🐛 1,516 | 🌐 Python | 📅 2026-10-07
+* ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [\[Paper\]](https://arxiv.org/abs/2206.01861) [\[Code (DeepSpeed)\]](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,209 | 🐛 1,522 | 🌐 Python | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social)](https://github.com/deepspeedai/DeepSpeed) ⭐ 43,209 | 🐛 1,522 | 🌐 Python | 📅 2026-10-09
 
-* LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale <br> NeurIPS 2022 [\[Paper\]](https://arxiv.org/abs/2208.07339) [\[Code\]](https://github.com/bitsandbytes-foundation/bitsandbytes) ⭐ 8,514 | 🐛 95 | 🌐 Python | 📅 2026-09-07 [![Stars](https://img.shields.io/github/stars/bitsandbytes-foundation/bitsandbytes?style=social)](https://github.com/bitsandbytes-foundation/bitsandbytes) ⭐ 8,514 | 🐛 95 | 🌐 Python | 📅 2026-09-07
+* LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale <br> NeurIPS 2022 [\[Paper\]](https://arxiv.org/abs/2208.07339) [\[Code\]](https://github.com/bitsandbytes-foundation/bitsandbytes) ⭐ 8,514 | 🐛 97 | 🌐 Python | 📅 2026-09-07 [![Stars](https://img.shields.io/github/stars/bitsandbytes-foundation/bitsandbytes?style=social)](https://github.com/bitsandbytes-foundation/bitsandbytes) ⭐ 8,514 | 🐛 97 | 🌐 Python | 📅 2026-09-07
 
-* GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers <br> ICLR 2023 [\[Paper\]](https://arxiv.org/abs/2210.17323) [\[Code\]](https://github.com/IST-DASLab/gptq) ⭐ 2,381 | 🐛 27 | 🌐 Python | 📅 2024-03-27 [![Stars](https://img.shields.io/github/stars/IST-DASLab/gptq?style=social)](https://github.com/IST-DASLab/gptq) ⭐ 2,381 | 🐛 27 | 🌐 Python | 📅 2024-03-27
+* GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers <br> ICLR 2023 [\[Paper\]](https://arxiv.org/abs/2210.17323) [\[Code\]](https://github.com/IST-DASLab/gptq) ⭐ 2,383 | 🐛 27 | 🌐 Python | 📅 2024-03-27 [![Stars](https://img.shields.io/github/stars/IST-DASLab/gptq?style=social)](https://github.com/IST-DASLab/gptq) ⭐ 2,383 | 🐛 27 | 🌐 Python | 📅 2024-03-27
 
-* SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models <br> ICML 2023 [\[Paper\]](https://arxiv.org/abs/2211.10438) [\[Code\]](https://github.com/mit-han-lab/smoothquant) ⭐ 1,694 | 🐛 72 | 🌐 Python | 📅 2024-07-12 [![Stars](https://img.shields.io/github/stars/mit-han-lab/smoothquant?style=social)](https://github.com/mit-han-lab/smoothquant) ⭐ 1,694 | 🐛 72 | 🌐 Python | 📅 2024-07-12
+* SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models <br> ICML 2023 [\[Paper\]](https://arxiv.org/abs/2211.10438) [\[Code\]](https://github.com/mit-han-lab/smoothquant) ⭐ 1,695 | 🐛 72 | 🌐 Python | 📅 2024-07-12 [![Stars](https://img.shields.io/github/stars/mit-han-lab/smoothquant?style=social)](https://github.com/mit-han-lab/smoothquant) ⭐ 1,695 | 🐛 72 | 🌐 Python | 📅 2024-07-12
 
 * Outlier Suppression: Pushing the Limit of Low-bit Transformer Language Models <br> NeurIPS 2022 [\[Paper\]](https://arxiv.org/abs/2209.13325) [\[Code\]](https://github.com/wimh966/outlier_suppression) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2022-10-05 [![Stars](https://img.shields.io/github/stars/wimh966/outlier_suppression?style=social)](https://github.com/wimh966/outlier_suppression) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2022-10-05
 
@@ -1008,7 +1008,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2601.17917) [\[Code\]](https://github.com/xiaoshideta/Streaming-dLLM) ⭐ 446 | 🐛 2 | 🌐 Python | 📅 2026-06-24 [![Stars](https://img.shields.io/github/stars/xiaoshideta/Streaming-dLLM?style=social)](https://github.com/xiaoshideta/Streaming-dLLM) ⭐ 446 | 🐛 2 | 🌐 Python | 📅 2026-06-24
 
-* Sparser, Faster, Lighter Transformer Language Models <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2603.23198) [\[Code\]](https://github.com/SakanaAI/sparser-faster-llms) ⭐ 263 | 🐛 0 | 🌐 Cuda | 📅 2026-06-29 [![Stars](https://img.shields.io/github/stars/SakanaAI/sparser-faster-llms?style=social)](https://github.com/SakanaAI/sparser-faster-llms) ⭐ 263 | 🐛 0 | 🌐 Cuda | 📅 2026-06-29
+* Sparser, Faster, Lighter Transformer Language Models <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2603.23198) [\[Code\]](https://github.com/SakanaAI/sparser-faster-llms) ⭐ 264 | 🐛 0 | 🌐 Cuda | 📅 2026-06-29 [![Stars](https://img.shields.io/github/stars/SakanaAI/sparser-faster-llms?style=social)](https://github.com/SakanaAI/sparser-faster-llms) ⭐ 264 | 🐛 0 | 🌐 Cuda | 📅 2026-06-29
 
 * FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2606.09079) [\[Code\]](https://github.com/libertywing/FlashMemory-Deepseek-V4) ⭐ 112 | 🐛 1 | 🌐 Python | 📅 2026-07-18 [![Stars](https://img.shields.io/github/stars/libertywing/FlashMemory-Deepseek-V4?style=social)](https://github.com/libertywing/FlashMemory-Deepseek-V4) ⭐ 112 | 🐛 1 | 🌐 Python | 📅 2026-07-18
 
@@ -1016,9 +1016,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2603.05168) [\[Code\]](https://github.com/AAzdi/Sparse-BitNet) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2026-03-10 [![Stars](https://img.shields.io/github/stars/AAzdi/Sparse-BitNet?style=social)](https://github.com/AAzdi/Sparse-BitNet) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2026-03-10
 
-* Sink-Aware Pruning for Diffusion Language Models <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2602.17664) [\[Code\]](https://github.com/VILA-Lab/Sink-Aware-Pruning) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-02-26 [![Stars](https://img.shields.io/github/stars/VILA-Lab/Sink-Aware-Pruning?style=social)](https://github.com/VILA-Lab/Sink-Aware-Pruning) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-02-26
+* Sink-Aware Pruning for Diffusion Language Models <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2602.17664) [\[Code\]](https://github.com/VILA-Lab/Sink-Aware-Pruning) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2026-02-26 [![Stars](https://img.shields.io/github/stars/VILA-Lab/Sink-Aware-Pruning?style=social)](https://github.com/VILA-Lab/Sink-Aware-Pruning) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2026-02-26
 
-* Persona-Pruner: Sculpting Lightweight Models for Role-Playing <br> ICML 2026 [\[Paper\]](https://arxiv.org/abs/2606.14695) [\[Code\]](https://github.com/jsu-kim/Persona-Pruner) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-07-01 [![Stars](https://img.shields.io/github/stars/jsu-kim/Persona-Pruner?style=social)](https://github.com/jsu-kim/Persona-Pruner) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-07-01
+* Persona-Pruner: Sculpting Lightweight Models for Role-Playing <br> ICML 2026 [\[Paper\]](https://arxiv.org/abs/2606.14695) [\[Code\]](https://github.com/jsu-kim/Persona-Pruner) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-07-01 [![Stars](https://img.shields.io/github/stars/jsu-kim/Persona-Pruner?style=social)](https://github.com/jsu-kim/Persona-Pruner) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-07-01
 
 * High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2603.08083) [\[Code\]](https://github.com/visresearch/HFPrune) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-03-17 [![Stars](https://img.shields.io/github/stars/visresearch/HFPrune?style=social)](https://github.com/visresearch/HFPrune) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-03-17
 
@@ -1204,7 +1204,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * SliceGPT: Compress Large Language Models by Deleting Rows and Columns <br> ICLR 2024 [\[Paper\]](https://arxiv.org/abs/2401.15024) [\[Code\]](https://github.com/microsoft/TransformerCompression) ⭐ 462 | 🐛 27 | 🌐 Python | 📅 2026-09-10 [![Stars](https://img.shields.io/github/stars/microsoft/TransformerCompression?style=social)](https://github.com/microsoft/TransformerCompression) ⭐ 462 | 🐛 27 | 🌐 Python | 📅 2026-09-10
 
-* Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference <br> ICML 2024 [\[Paper\]](https://arxiv.org/abs/2406.10774) [\[Code\]](https://github.com/mit-han-lab/Quest) ⭐ 409 | 🐛 6 | 🌐 Cuda | 📅 2025-07-10 [![Stars](https://img.shields.io/github/stars/mit-han-lab/Quest?style=social)](https://github.com/mit-han-lab/Quest) ⭐ 409 | 🐛 6 | 🌐 Cuda | 📅 2025-07-10
+* Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference <br> ICML 2024 [\[Paper\]](https://arxiv.org/abs/2406.10774) [\[Code\]](https://github.com/mit-han-lab/Quest) ⭐ 410 | 🐛 6 | 🌐 Cuda | 📅 2025-07-10 [![Stars](https://img.shields.io/github/stars/mit-han-lab/Quest?style=social)](https://github.com/mit-han-lab/Quest) ⭐ 410 | 🐛 6 | 🌐 Cuda | 📅 2025-07-10
 
 * What Matters in Transformers? Not All Attention is Needed <br> Arxiv 2024 [\[Paper\]](https://arxiv.org/abs/2406.15786) [\[Code\]](https://github.com/CASE-Lab-UMD/LLM-Drop) ⭐ 193 | 🐛 0 | 🌐 Python | 📅 2026-10-02 [![Stars](https://img.shields.io/github/stars/CASE-Lab-UMD/LLM-Drop?style=social)](https://github.com/CASE-Lab-UMD/LLM-Drop) ⭐ 193 | 🐛 0 | 🌐 Python | 📅 2026-10-02
 
@@ -1363,7 +1363,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * LLM-Pruner: On the Structural Pruning of Large Language Models <br> NeurIPS 2023 [\[Paper\]](https://arxiv.org/abs/2305.11627) [\[Code\]](https://github.com/horseee/LLM-Pruner) ⭐ 1,140 | 🐛 65 | 🌐 Python | 📅 2024-10-07 [![Stars](https://img.shields.io/github/stars/horseee/LLM-Pruner?style=social)](https://github.com/horseee/LLM-Pruner) ⭐ 1,140 | 🐛 65 | 🌐 Python | 📅 2024-10-07
 
-* SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot <br> ICML 2023 [\[Paper\]](https://arxiv.org/abs/2301.00774) [\[Code\]](https://github.com/IST-DASLab/sparsegpt) ⭐ 899 | 🐛 18 | 🌐 Python | 📅 2024-08-20 [![Stars](https://img.shields.io/github/stars/IST-DASLab/sparsegpt?style=social)](https://github.com/IST-DASLab/sparsegpt) ⭐ 899 | 🐛 18 | 🌐 Python | 📅 2024-08-20
+* SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot <br> ICML 2023 [\[Paper\]](https://arxiv.org/abs/2301.00774) [\[Code\]](https://github.com/IST-DASLab/sparsegpt) ⭐ 900 | 🐛 18 | 🌐 Python | 📅 2024-08-20 [![Stars](https://img.shields.io/github/stars/IST-DASLab/sparsegpt?style=social)](https://github.com/IST-DASLab/sparsegpt) ⭐ 900 | 🐛 18 | 🌐 Python | 📅 2024-08-20
 
 * A Simple and Effective Pruning Approach for Large Language Models <br> ICLR 2024 [\[Paper\]](https://arxiv.org/abs/2306.11695) [\[Code\]](https://github.com/locuslab/wanda) ⭐ 880 | 🐛 48 | 🌐 Python | 📅 2024-08-09 [![Stars](https://img.shields.io/github/stars/locuslab/wanda?style=social)](https://github.com/locuslab/wanda) ⭐ 880 | 🐛 48 | 🌐 Python | 📅 2024-08-09
 
@@ -1457,9 +1457,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details open>
 <summary><b>2026</b> &nbsp;·&nbsp; 30 papers</summary>
 
-* UniSD: Towards a Unified Self-Distillation Framework for Large Language Models <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2605.06597) [\[Code\]](https://github.com/Ahren09/UniSD) ⭐ 799 | 🐛 1 | 🌐 Python | 📅 2026-06-13 [![Stars](https://img.shields.io/github/stars/Ahren09/UniSD?style=social)](https://github.com/Ahren09/UniSD) ⭐ 799 | 🐛 1 | 🌐 Python | 📅 2026-06-13
+* UniSD: Towards a Unified Self-Distillation Framework for Large Language Models <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2605.06597) [\[Code\]](https://github.com/Ahren09/UniSD) ⭐ 806 | 🐛 1 | 🌐 Python | 📅 2026-06-13 [![Stars](https://img.shields.io/github/stars/Ahren09/UniSD?style=social)](https://github.com/Ahren09/UniSD) ⭐ 806 | 🐛 1 | 🌐 Python | 📅 2026-06-13
 
-* Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2601.18734) [\[Code\]](https://github.com/siyan-zhao/OPSD) ⭐ 673 | 🐛 7 | 🌐 Python | 📅 2026-09-05 [![Stars](https://img.shields.io/github/stars/siyan-zhao/OPSD?style=social)](https://github.com/siyan-zhao/OPSD) ⭐ 673 | 🐛 7 | 🌐 Python | 📅 2026-09-05
+* Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2601.18734) [\[Code\]](https://github.com/siyan-zhao/OPSD) ⭐ 675 | 🐛 7 | 🌐 Python | 📅 2026-09-05 [![Stars](https://img.shields.io/github/stars/siyan-zhao/OPSD?style=social)](https://github.com/siyan-zhao/OPSD) ⭐ 675 | 🐛 7 | 🌐 Python | 📅 2026-09-05
 
 * KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2603.01875) [\[Code\]](https://github.com/songmzhang/KDFlow) ⭐ 253 | 🐛 0 | 🌐 Python | 📅 2026-09-27 [![Stars](https://img.shields.io/github/stars/songmzhang/KDFlow?style=social)](https://github.com/songmzhang/KDFlow) ⭐ 253 | 🐛 0 | 🌐 Python | 📅 2026-09-27
 
@@ -1634,7 +1634,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2023</b> &nbsp;·&nbsp; 20 papers</summary>
 
-* GPT4All: Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo <br> Arxiv 2023 [\[Paper\]](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf) [\[Code\]](https://github.com/nomic-ai/gpt4all) ⭐ 77,380 | 🐛 773 | 🌐 C++ | 📅 2025-05-27 [![Stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social)](https://github.com/nomic-ai/gpt4all) ⭐ 77,380 | 🐛 773 | 🌐 C++ | 📅 2025-05-27
+* GPT4All: Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo <br> Arxiv 2023 [\[Paper\]](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf) [\[Code\]](https://github.com/nomic-ai/gpt4all) ⭐ 77,375 | 🐛 773 | 🌐 C++ | 📅 2025-05-27 [![Stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social)](https://github.com/nomic-ai/gpt4all) ⭐ 77,375 | 🐛 773 | 🌐 C++ | 📅 2025-05-27
 
 * MiniLLM: Knowledge Distillation of Large Language Models <br> ICLR 2024 [\[Paper\]](https://arxiv.org/abs/2306.08543) [\[Code\]](https://github.com/microsoft/LMOps/tree/main/minillm) ⭐ 4,477 | 🐛 120 | 🌐 Python | 📅 2026-09-15 [![Stars](https://img.shields.io/github/stars/microsoft/LMOps?style=social)](https://github.com/microsoft/LMOps) ⭐ 4,477 | 🐛 120 | 🌐 Python | 📅 2026-09-15
 
@@ -1752,9 +1752,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2024</b> &nbsp;·&nbsp; 25 papers</summary>
 
-* LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression <br> ACL Findings 2024 [\[Paper\]](https://arxiv.org/abs/2403.12968)  [\[Code\]](https://github.com/microsoft/LLMLingua) ⭐ 6,737 | 🐛 123 | 🌐 Python | 📅 2026-09-10 [![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua?style=social)](https://github.com/microsoft/LLMLingua) ⭐ 6,737 | 🐛 123 | 🌐 Python | 📅 2026-09-10
+* LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression <br> ACL Findings 2024 [\[Paper\]](https://arxiv.org/abs/2403.12968)  [\[Code\]](https://github.com/microsoft/LLMLingua) ⭐ 6,740 | 🐛 124 | 🌐 Python | 📅 2026-09-10 [![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua?style=social)](https://github.com/microsoft/LLMLingua) ⭐ 6,740 | 🐛 124 | 🌐 Python | 📅 2026-09-10
 
-* Prompts As Programs: A Structure-Aware Approach to Efficient Compile-Time Prompt Optimization <br> Arxiv 2024 [\[Paper\]](https://arxiv.org/abs/2404.02319) [\[Code\]](https://github.com/microsoft/sammo) ⭐ 779 | 🐛 10 | 🌐 Python | 📅 2025-06-23 [![Stars](https://img.shields.io/github/stars/microsoft/sammo?style=social)](https://github.com/microsoft/sammo) ⭐ 779 | 🐛 10 | 🌐 Python | 📅 2025-06-23
+* Prompts As Programs: A Structure-Aware Approach to Efficient Compile-Time Prompt Optimization <br> Arxiv 2024 [\[Paper\]](https://arxiv.org/abs/2404.02319) [\[Code\]](https://github.com/microsoft/sammo) ⭐ 780 | 🐛 10 | 🌐 Python | 📅 2025-06-23 [![Stars](https://img.shields.io/github/stars/microsoft/sammo?style=social)](https://github.com/microsoft/sammo) ⭐ 780 | 🐛 10 | 🌐 Python | 📅 2025-06-23
 
 * PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models <br> Arxiv 2024 [\[Paper\]](https://arxiv.org/abs/2403.17411)  [\[Code\]](https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression) ⭐ 292 | 🐛 0 | 🌐 Python | 📅 2025-02-11 [![Stars](https://img.shields.io/github/stars/3DAgentWorld/Toolkit-for-Prompt-Compression?style=social)](https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression) ⭐ 292 | 🐛 0 | 🌐 Python | 📅 2025-02-11
 
@@ -1762,7 +1762,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference <br> Arxiv 2024 [\[Paper\]](https://arxiv.org/abs/2409.01227) [\[Code\]](https://github.com/Workday/cpc) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2025-01-16 [![Stars](https://img.shields.io/github/stars/Workday/cpc?style=social)](https://github.com/Workday/cpc) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2025-01-16
 
-* QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression <br> Arxiv 2024 [\[Paper\]](https://arxiv.org/abs/2408.00274) [\[Code\]](https://github.com/Wenshansilvia/attention_compressor) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-05-06 [![Stars](https://img.shields.io/github/stars/Wenshansilvia/attention_compressor?style=social)](https://github.com/Wenshansilvia/attention_compressor) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-05-06
+* QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression <br> Arxiv 2024 [\[Paper\]](https://arxiv.org/abs/2408.00274) [\[Code\]](https://github.com/Wenshansilvia/attention_compressor) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-05-06 [![Stars](https://img.shields.io/github/stars/Wenshansilvia/attention_compressor?style=social)](https://github.com/Wenshansilvia/attention_compressor) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-05-06
 
 * Say More with Less: Understanding Prompt Learning Behaviors through Gist Compression <br> Arxiv 2024 [\[Paper\]](https://arxiv.org/abs/2402.16058) [\[Code\]](https://github.com/OpenMatch/Gist-COCO) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2024-02-27 [![Stars](https://img.shields.io/github/stars/OpenMatch/Gist-COCO?style=social)](https://github.com/OpenMatch/Gist-COCO) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2024-02-27
 
@@ -1807,9 +1807,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2023</b> &nbsp;·&nbsp; 17 papers</summary>
 
-* LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models <br> EMNLP 2023 [\[Paper\]](https://arxiv.org/abs/2310.05736) [\[Code\]](https://github.com/microsoft/LLMLingua) ⭐ 6,737 | 🐛 123 | 🌐 Python | 📅 2026-09-10 [![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua?style=social)](https://github.com/microsoft/LLMLingua) ⭐ 6,737 | 🐛 123 | 🌐 Python | 📅 2026-09-10
+* LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models <br> EMNLP 2023 [\[Paper\]](https://arxiv.org/abs/2310.05736) [\[Code\]](https://github.com/microsoft/LLMLingua) ⭐ 6,740 | 🐛 124 | 🌐 Python | 📅 2026-09-10 [![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua?style=social)](https://github.com/microsoft/LLMLingua) ⭐ 6,740 | 🐛 124 | 🌐 Python | 📅 2026-09-10
 
-* LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression <br> ACL 2024 [\[Paper\]](https://arxiv.org/abs/2310.06839) [\[Code\]](https://github.com/microsoft/LLMLingua) ⭐ 6,737 | 🐛 123 | 🌐 Python | 📅 2026-09-10 [![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua?style=social)](https://github.com/microsoft/LLMLingua) ⭐ 6,737 | 🐛 123 | 🌐 Python | 📅 2026-09-10
+* LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression <br> ACL 2024 [\[Paper\]](https://arxiv.org/abs/2310.06839) [\[Code\]](https://github.com/microsoft/LLMLingua) ⭐ 6,740 | 🐛 124 | 🌐 Python | 📅 2026-09-10 [![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua?style=social)](https://github.com/microsoft/LLMLingua) ⭐ 6,740 | 🐛 124 | 🌐 Python | 📅 2026-09-10
 
 * Compressing Context to Enhance Inference Efficiency of Large Language Models <br> EMNLP 2023 [\[Paper\]](https://arxiv.org/abs/2310.06201) [\[Code\]](https://github.com/liyucheng09/Selective_Context) ⭐ 426 | 🐛 12 | 🌐 Python | 📅 2024-02-12 [![Stars](https://img.shields.io/github/stars/liyucheng09/Selective_Context?style=social)](https://github.com/liyucheng09/Selective_Context) ⭐ 426 | 🐛 12 | 🌐 Python | 📅 2024-02-12
 
@@ -1850,7 +1850,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * TriAttention: Efficient Long Reasoning with Trigonometric KV Compression <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2604.04921) [\[Code\]](https://github.com/WeianMao/triattention) ⭐ 854 | 🐛 8 | 🌐 Python | 📅 2026-08-04 [![Stars](https://img.shields.io/github/stars/WeianMao/triattention?style=social)](https://github.com/WeianMao/triattention) ⭐ 854 | 🐛 8 | 🌐 Python | 📅 2026-08-04
 
-* ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs <br> ICML 2026 [\[Paper\]](https://arxiv.org/abs/2602.07721) [\[Code\]](https://github.com/amy-77/ParisKV) ⭐ 36 | 🐛 2 | 🌐 Python | 📅 2026-08-14 [![Stars](https://img.shields.io/github/stars/amy-77/ParisKV?style=social)](https://github.com/amy-77/ParisKV) ⭐ 36 | 🐛 2 | 🌐 Python | 📅 2026-08-14
+* ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs <br> ICML 2026 [\[Paper\]](https://arxiv.org/abs/2602.07721) [\[Code\]](https://github.com/amy-77/ParisKV) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2026-08-14 [![Stars](https://img.shields.io/github/stars/amy-77/ParisKV?style=social)](https://github.com/amy-77/ParisKV) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2026-08-14
 
 * Learning to Evict from Key-Value Cache <br> ICML 2026 [\[Paper\]](https://arxiv.org/abs/2602.10238) [\[Code\]](https://github.com/apple/ml-learning-to-evict) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-09-11 [![Stars](https://img.shields.io/github/stars/apple/ml-learning-to-evict?style=social)](https://github.com/apple/ml-learning-to-evict) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-09-11
 
@@ -1917,7 +1917,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction <br> NeurIPS 2025 [\[Paper\]](https://arxiv.org/abs/2505.23416) [\[Code\]](https://github.com/snu-mllab/KVzip) ⭐ 224 | 🐛 4 | 🌐 Python | 📅 2026-02-11 [![Stars](https://img.shields.io/github/stars/snu-mllab/KVzip?style=social)](https://github.com/snu-mllab/KVzip) ⭐ 224 | 🐛 4 | 🌐 Python | 📅 2026-02-11
 
-* KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems <br> NeurIPS 2025 [\[Paper\]](https://arxiv.org/abs/2510.12872) [\[Code\]](https://github.com/FastMAS/KVCOMM) ⭐ 192 | 🐛 4 | 🌐 Python | 📅 2025-11-03 [![Stars](https://img.shields.io/github/stars/FastMAS/KVCOMM?style=social)](https://github.com/FastMAS/KVCOMM) ⭐ 192 | 🐛 4 | 🌐 Python | 📅 2025-11-03
+* KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems <br> NeurIPS 2025 [\[Paper\]](https://arxiv.org/abs/2510.12872) [\[Code\]](https://github.com/FastMAS/KVCOMM) ⭐ 193 | 🐛 4 | 🌐 Python | 📅 2025-11-03 [![Stars](https://img.shields.io/github/stars/FastMAS/KVCOMM?style=social)](https://github.com/FastMAS/KVCOMM) ⭐ 193 | 🐛 4 | 🌐 Python | 📅 2025-11-03
 
 * PiKV: KV Cache Management System for Mixture of Experts <br> Arxiv 2025 [\[Paper\]](https://arxiv.org/abs/2508.06526) [\[Code\]](https://github.com/NoakLiu/PiKV) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2026-08-17 [![Stars](https://img.shields.io/github/stars/NoakLiu/PiKV?style=social)](https://github.com/NoakLiu/PiKV) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2026-08-17
 
@@ -2060,7 +2060,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time <br> ACL 2024 [\[Paper\]](https://arxiv.org/abs/2408.03675) [\[Code\]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL) ⭐ 1,767 | 🐛 137 | 🌐 Python | 📅 2024-08-16 [![Stars](https://img.shields.io/github/stars/PaddlePaddle/Research?style=social)](https://github.com/PaddlePaddle/Research) ⭐ 1,767 | 🐛 137 | 🌐 Python | 📅 2024-08-16
 
-* SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator <br> ICML 2025 [\[Paper\]](https://arxiv.org/abs/2412.12094) [\[Code\]](https://github.com/HKUDS/SepLLM) ⭐ 570 | 🐛 3 | 🌐 Python | 📅 2025-07-29 [![Stars](https://img.shields.io/github/stars/HKUDS/SepLLM?style=social)](https://github.com/HKUDS/SepLLM) ⭐ 570 | 🐛 3 | 🌐 Python | 📅 2025-07-29
+* SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator <br> ICML 2025 [\[Paper\]](https://arxiv.org/abs/2412.12094) [\[Code\]](https://github.com/HKUDS/SepLLM) ⭐ 571 | 🐛 3 | 🌐 Python | 📅 2025-07-29 [![Stars](https://img.shields.io/github/stars/HKUDS/SepLLM?style=social)](https://github.com/HKUDS/SepLLM) ⭐ 571 | 🐛 3 | 🌐 Python | 📅 2025-07-29
 
 * KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache <br> ICML 2024 [\[Paper\]](https://arxiv.org/abs/2402.02750) [\[Code\]](https://github.com/jy-yuan/KIVI) ⭐ 433 | 🐛 7 | 🌐 Python | 📅 2025-11-20 [![Stars](https://img.shields.io/github/stars/jy-yuan/KIVI?style=social)](https://github.com/jy-yuan/KIVI) ⭐ 433 | 🐛 7 | 🌐 Python | 📅 2025-11-20
 
@@ -2160,7 +2160,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details open>
 <summary><b>2026</b> &nbsp;·&nbsp; 13 papers</summary>
 
-* SPECTRE: Hybrid Ordinary-Parallel Speculative Serving for Resource-Efficient LLM Inference <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2605.08151) [\[Code\]](https://github.com/sgl-project/sglang) ⭐ 36,842 | 🐛 5,587 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social)](https://github.com/sgl-project/sglang) ⭐ 36,842 | 🐛 5,587 | 🌐 Python | 📅 2026-10-08
+* SPECTRE: Hybrid Ordinary-Parallel Speculative Serving for Resource-Efficient LLM Inference <br> Arxiv 2026 [\[Paper\]](https://arxiv.org/abs/2605.08151) [\[Code\]](https://github.com/sgl-project/sglang) ⭐ 36,891 | 🐛 5,626 | 🌐 Python | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social)](https://github.com/sgl-project/sglang) ⭐ 36,891 | 🐛 5,626 | 🌐 Python | 📅 2026-10-09
 
 * MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [\[Paper\]](https://arxiv.org/abs/2603.18016) [\[Code\]](https://github.com/electron-shaders/MineDraft) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2026-06-23 [![Stars](https://img.shields.io/github/stars/electron-shaders/MineDraft?style=social)](https://github.com/electron-shaders/MineDraft) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2026-06-23
 
@@ -2278,9 +2278,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2024</b> &nbsp;·&nbsp; 43 papers</summary>
 
-* SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration <br> ICLR 2025 [\[Paper\]](https://arxiv.org/abs/2410.02367) [\[Code\]](https://github.com/thu-ml/SageAttention) ⭐ 3,961 | 🐛 213 | 🌐 Cuda | 📅 2026-01-17 [![Stars](https://img.shields.io/github/stars/thu-ml/SageAttention?style=social)](https://github.com/thu-ml/SageAttention) ⭐ 3,961 | 🐛 213 | 🌐 Cuda | 📅 2026-01-17
+* SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration <br> ICLR 2025 [\[Paper\]](https://arxiv.org/abs/2410.02367) [\[Code\]](https://github.com/thu-ml/SageAttention) ⭐ 3,963 | 🐛 213 | 🌐 Cuda | 📅 2026-01-17 [![Stars](https://img.shields.io/github/stars/thu-ml/SageAttention?style=social)](https://github.com/thu-ml/SageAttention) ⭐ 3,963 | 🐛 213 | 🌐 Cuda | 📅 2026-01-17
 
-* Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads <br> Arxiv 2024 [\[Paper\]](https://arxiv.org/abs/2401.10774) [\[Code\]](https://github.com/FasterDecoding/Medusa) ⭐ 2,770 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25 [![Stars](https://img.shields.io/github/stars/FasterDecoding/Medusa?style=social)](https://github.com/FasterDecoding/Medusa) ⭐ 2,770 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25
+* Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads <br> Arxiv 2024 [\[Paper\]](https://arxiv.org/abs/2401.10774) [\[Code\]](https://github.com/FasterDecoding/Medusa) ⭐ 2,771 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25 [![Stars](https://img.shields.io/github/stars/FasterDecoding/Medusa?style=social)](https://github.com/FasterDecoding/Medusa) ⭐ 2,771 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2024-06-25
 
 * MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases <br> ICML 2024 [\[Paper\]](https://arxiv.org/abs/2402.14905) [\[Code\]](https://github.com/facebookresearch/MobileLLM) ⭐ 1,465 | 🐛 11 | 🌐 Python | 📅 2026-04-30 [![Stars](https://img.shields.io/github/stars/facebookresearch/MobileLLM?style=social)](https://github.com/facebookresearch/MobileLLM) ⭐ 1,465 | 🐛 11 | 🌐 Python | 📅 2026-04-30
 
@@ -2369,9 +2369,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2023</b> &nbsp;·&nbsp; 22 papers</summary>
 
-* PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU <br> SOSP 2024 [\[Paper\]](https://arxiv.org/abs/2312.12456)  [\[Code\]](https://github.com/Tiiny-AI/PowerInfer) ⭐ 9,820 | 🐛 133 | 🌐 C++ | 📅 2026-05-11 [![Stars](https://img.shields.io/github/stars/Tiiny-AI/PowerInfer?style=social)](https://github.com/Tiiny-AI/PowerInfer) ⭐ 9,820 | 🐛 133 | 🌐 C++ | 📅 2026-05-11
+* PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU <br> SOSP 2024 [\[Paper\]](https://arxiv.org/abs/2312.12456)  [\[Code\]](https://github.com/Tiiny-AI/PowerInfer) ⭐ 9,819 | 🐛 133 | 🌐 C++ | 📅 2026-05-11 [![Stars](https://img.shields.io/github/stars/Tiiny-AI/PowerInfer?style=social)](https://github.com/Tiiny-AI/PowerInfer) ⭐ 9,819 | 🐛 133 | 🌐 C++ | 📅 2026-05-11
 
-* Efficient Streaming Language Models with Attention Sinks <br> ICLR 2024 [\[Paper\]](https://arxiv.org/abs/2309.17453) [\[Code\]](https://github.com/mit-han-lab/streaming-llm) ⭐ 7,265 | 🐛 50 | 🌐 Python | 📅 2024-07-11 [![Stars](https://img.shields.io/github/stars/mit-han-lab/streaming-llm?style=social)](https://github.com/mit-han-lab/streaming-llm) ⭐ 7,265 | 🐛 50 | 🌐 Python | 📅 2024-07-11
+* Efficient Streaming Language Models with Attention Sinks <br> ICLR 2024 [\[Paper\]](https://arxiv.org/abs/2309.17453) [\[Code\]](https://github.com/mit-han-lab/streaming-llm) ⭐ 7,266 | 🐛 50 | 🌐 Python | 📅 2024-07-11 [![Stars](https://img.shields.io/github/stars/mit-han-lab/streaming-llm?style=social)](https://github.com/mit-han-lab/streaming-llm) ⭐ 7,266 | 🐛 50 | 🌐 Python | 📅 2024-07-11
 
 * LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models <br> Arxiv 2023 [\[Paper\]](https://arxiv.org/abs/2309.12307) [\[Code\]](https://github.com/JIA-Lab-research/LongLoRA) ⭐ 2,686 | 🐛 53 | 🌐 Python | 📅 2024-08-14 [![Stars](https://img.shields.io/github/stars/JIA-Lab-research/LongLoRA?style=social)](https://github.com/JIA-Lab-research/LongLoRA) ⭐ 2,686 | 🐛 53 | 🌐 Python | 📅 2024-08-14
 
@@ -2418,7 +2418,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2022</b> &nbsp;·&nbsp; 1 paper</summary>
 
-* FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [\[Paper\]](https://arxiv.org/abs/2205.14135) [\[Code\]](https://github.com/Dao-AILab/flash-attention) ⭐ 25,100 | 🐛 1,337 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/Dao-AILab/flash-attention?style=social)](https://github.com/Dao-AILab/flash-attention) ⭐ 25,100 | 🐛 1,337 | 🌐 Python | 📅 2026-10-07
+* FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [\[Paper\]](https://arxiv.org/abs/2205.14135) [\[Code\]](https://github.com/Dao-AILab/flash-attention) ⭐ 25,105 | 🐛 1,340 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/Dao-AILab/flash-attention?style=social)](https://github.com/Dao-AILab/flash-attention) ⭐ 25,105 | 🐛 1,340 | 🌐 Python | 📅 2026-10-07
 
 </details>
 
@@ -2426,45 +2426,45 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 ### Inference and Serving Engines
 
-* Ollama: Get up and running with local LLMs, built on llama.cpp with quantized GGUF models [\[Code\]](https://github.com/ollama/ollama) ⭐ 182,500 | 🐛 4,195 | 🌐 Go | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social)](https://github.com/ollama/ollama) ⭐ 182,500 | 🐛 4,195 | 🌐 Go | 📅 2026-10-08
+* Ollama: Get up and running with local LLMs, built on llama.cpp with quantized GGUF models [\[Code\]](https://github.com/ollama/ollama) ⭐ 182,415 | 🐛 4,213 | 🌐 Go | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social)](https://github.com/ollama/ollama) ⭐ 182,415 | 🐛 4,213 | 🌐 Go | 📅 2026-10-08
 
-* llama.cpp: Inference of LLaMA model in pure C/C++ [\[Code\]](https://github.com/ggml-org/llama.cpp) ⭐ 130,614 | 🐛 2,494 | 🌐 C++ | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social)](https://github.com/ggml-org/llama.cpp) ⭐ 130,614 | 🐛 2,494 | 🌐 C++ | 📅 2026-10-08
+* llama.cpp: Inference of LLaMA model in pure C/C++ [\[Code\]](https://github.com/ggml-org/llama.cpp) ⭐ 130,548 | 🐛 2,495 | 🌐 C++ | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social)](https://github.com/ggml-org/llama.cpp) ⭐ 130,548 | 🐛 2,495 | 🌐 C++ | 📅 2026-10-08
 
-* vllm: A high-throughput and memory-efficient inference and serving engine for LLMs [\[Code\]](https://github.com/vllm-project/vllm) ⭐ 93,346 | 🐛 8,563 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social)](https://github.com/vllm-project/vllm) ⭐ 93,346 | 🐛 8,563 | 🌐 Python | 📅 2026-10-08
+* vllm: A high-throughput and memory-efficient inference and serving engine for LLMs [\[Code\]](https://github.com/vllm-project/vllm) ⭐ 93,414 | 🐛 8,637 | 🌐 Python | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social)](https://github.com/vllm-project/vllm) ⭐ 93,414 | 🐛 8,637 | 🌐 Python | 📅 2026-10-09
 
-* SGLang: A high-performance serving framework for LLMs and multimodal models with RadixAttention prefix caching [\[Code\]](https://github.com/sgl-project/sglang) ⭐ 36,842 | 🐛 5,587 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social)](https://github.com/sgl-project/sglang) ⭐ 36,842 | 🐛 5,587 | 🌐 Python | 📅 2026-10-08
+* SGLang: A high-performance serving framework for LLMs and multimodal models with RadixAttention prefix caching [\[Code\]](https://github.com/sgl-project/sglang) ⭐ 36,891 | 🐛 5,626 | 🌐 Python | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social)](https://github.com/sgl-project/sglang) ⭐ 36,891 | 🐛 5,626 | 🌐 Python | 📅 2026-10-09
 
-* AirLLM: 70B LLM inference on a single 4GB GPU through layer-wise offloading, without quantization or distillation [\[Code\]](https://github.com/lyogavin/airllm) ⭐ 35,491 | 🐛 156 | 🌐 Jupyter Notebook | 📅 2026-10-06 [![Stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social)](https://github.com/lyogavin/airllm) ⭐ 35,491 | 🐛 156 | 🌐 Jupyter Notebook | 📅 2026-10-06
+* AirLLM: 70B LLM inference on a single 4GB GPU through layer-wise offloading, without quantization or distillation [\[Code\]](https://github.com/lyogavin/airllm) ⭐ 35,518 | 🐛 155 | 🌐 Jupyter Notebook | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social)](https://github.com/lyogavin/airllm) ⭐ 35,518 | 🐛 155 | 🌐 Jupyter Notebook | 📅 2026-10-08
 
-* llamafile: Distribute and run LLMs with a single file [\[Code\]](https://github.com/mozilla-ai/llamafile) ⭐ 26,194 | 🐛 215 | 🌐 C++ | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/mozilla-ai/llamafile?style=social)](https://github.com/mozilla-ai/llamafile) ⭐ 26,194 | 🐛 215 | 🌐 C++ | 📅 2026-10-07
+* llamafile: Distribute and run LLMs with a single file [\[Code\]](https://github.com/mozilla-ai/llamafile) ⭐ 26,205 | 🐛 212 | 🌐 C++ | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/mozilla-ai/llamafile?style=social)](https://github.com/mozilla-ai/llamafile) ⭐ 26,205 | 🐛 212 | 🌐 C++ | 📅 2026-10-08
 
-* MLC LLM: Universal LLM deployment engine with ML compilation, supporting quantized deployment across GPUs, phones and browsers [\[Code\]](https://github.com/mlc-ai/mlc-llm) ⭐ 23,211 | 🐛 349 | 🌐 Python | 📅 2026-10-06 [![Stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=social)](https://github.com/mlc-ai/mlc-llm) ⭐ 23,211 | 🐛 349 | 🌐 Python | 📅 2026-10-06
+* MLC LLM: Universal LLM deployment engine with ML compilation, supporting quantized deployment across GPUs, phones and browsers [\[Code\]](https://github.com/mlc-ai/mlc-llm) ⭐ 23,213 | 🐛 349 | 🌐 Python | 📅 2026-10-06 [![Stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=social)](https://github.com/mlc-ai/mlc-llm) ⭐ 23,213 | 🐛 349 | 🌐 Python | 📅 2026-10-06
 
-* llama2.c: Inference Llama 2 in one file of pure C [\[Code\]](https://github.com/karpathy/llama2.c) ⭐ 20,158 | 🐛 191 | 🌐 C | 📅 2024-08-06 [![Stars](https://img.shields.io/github/stars/karpathy/llama2.c?style=social)](https://github.com/karpathy/llama2.c) ⭐ 20,158 | 🐛 191 | 🌐 C | 📅 2024-08-06
+* llama2.c: Inference Llama 2 in one file of pure C [\[Code\]](https://github.com/karpathy/llama2.c) ⭐ 20,165 | 🐛 191 | 🌐 C | 📅 2024-08-06 [![Stars](https://img.shields.io/github/stars/karpathy/llama2.c?style=social)](https://github.com/karpathy/llama2.c) ⭐ 20,165 | 🐛 191 | 🌐 C | 📅 2024-08-06
 
-* KTransformers: A flexible framework for experiencing cutting-edge heterogeneous (CPU/GPU) LLM inference and fine-tuning optimizations, enabling large MoE models on limited VRAM [\[Code\]](https://github.com/kvcache-ai/ktransformers) ⭐ 19,570 | 🐛 519 | 🌐 Python | 📅 2026-10-01 [![Stars](https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social)](https://github.com/kvcache-ai/ktransformers) ⭐ 19,570 | 🐛 519 | 🌐 Python | 📅 2026-10-01
+* KTransformers: A flexible framework for experiencing cutting-edge heterogeneous (CPU/GPU) LLM inference and fine-tuning optimizations, enabling large MoE models on limited VRAM [\[Code\]](https://github.com/kvcache-ai/ktransformers) ⭐ 19,571 | 🐛 519 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social)](https://github.com/kvcache-ai/ktransformers) ⭐ 19,571 | 🐛 519 | 🌐 Python | 📅 2026-10-08
 
-* ggml: Tensor library for machine learning [\[Code\]](https://github.com/ggml-org/ggml) ⭐ 15,451 | 🐛 368 | 🌐 C++ | 📅 2026-10-05 [![Stars](https://img.shields.io/github/stars/ggml-org/ggml?style=social)](https://github.com/ggml-org/ggml) ⭐ 15,451 | 🐛 368 | 🌐 C++ | 📅 2026-10-05
+* ggml: Tensor library for machine learning [\[Code\]](https://github.com/ggml-org/ggml) ⭐ 15,455 | 🐛 368 | 🌐 C++ | 📅 2026-10-05 [![Stars](https://img.shields.io/github/stars/ggml-org/ggml?style=social)](https://github.com/ggml-org/ggml) ⭐ 15,455 | 🐛 368 | 🌐 C++ | 📅 2026-10-05
 
-* TensorRT-LLM: TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. [\[Code\]](https://github.com/NVIDIA/TensorRT-LLM) ⭐ 14,776 | 🐛 1,582 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social)](https://github.com/NVIDIA/TensorRT-LLM) ⭐ 14,776 | 🐛 1,582 | 🌐 Python | 📅 2026-10-08
+* TensorRT-LLM: TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. [\[Code\]](https://github.com/NVIDIA/TensorRT-LLM) ⭐ 14,777 | 🐛 1,589 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social)](https://github.com/NVIDIA/TensorRT-LLM) ⭐ 14,777 | 🐛 1,589 | 🌐 Python | 📅 2026-10-08
 
-* PowerInfer: High-speed LLM serving for local deployment using a GPU-CPU hybrid engine that exploits activation locality [\[Code\]](https://github.com/Tiiny-AI/PowerInfer) ⭐ 9,820 | 🐛 133 | 🌐 C++ | 📅 2026-05-11 [![Stars](https://img.shields.io/github/stars/Tiiny-AI/PowerInfer?style=social)](https://github.com/Tiiny-AI/PowerInfer) ⭐ 9,820 | 🐛 133 | 🌐 C++ | 📅 2026-05-11
+* PowerInfer: High-speed LLM serving for local deployment using a GPU-CPU hybrid engine that exploits activation locality [\[Code\]](https://github.com/Tiiny-AI/PowerInfer) ⭐ 9,819 | 🐛 133 | 🌐 C++ | 📅 2026-05-11 [![Stars](https://img.shields.io/github/stars/Tiiny-AI/PowerInfer?style=social)](https://github.com/Tiiny-AI/PowerInfer) ⭐ 9,819 | 🐛 133 | 🌐 C++ | 📅 2026-05-11
 
 * FlexGen: Running large language models on a single GPU for throughput-oriented scenarios via offloading [\[Code\]](https://github.com/FMInference/FlexLLMGen) ⚠️ Archived [![Stars](https://img.shields.io/github/stars/FMInference/FlexLLMGen?style=social)](https://github.com/FMInference/FlexLLMGen) ⚠️ Archived
 
 * ipex-llm: Accelerate local LLM inference and finetuning on Intel CPU, iGPU, NPU and discrete GPU with low-bit formats [\[Code\]](https://github.com/intel/ipex-llm) ⚠️ Archived [![Stars](https://img.shields.io/github/stars/intel/ipex-llm?style=social)](https://github.com/intel/ipex-llm) ⚠️ Archived
 
-* LMDeploy: A toolkit for compressing, deploying, and serving LLMs, including W4A16 and KV cache quantization [\[Code\]](https://github.com/InternLM/lmdeploy) ⭐ 8,104 | 🐛 611 | 🌐 Python | 📅 2026-09-28 [![Stars](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social)](https://github.com/InternLM/lmdeploy) ⭐ 8,104 | 🐛 611 | 🌐 Python | 📅 2026-09-28
+* LMDeploy: A toolkit for compressing, deploying, and serving LLMs, including W4A16 and KV cache quantization [\[Code\]](https://github.com/InternLM/lmdeploy) ⭐ 8,103 | 🐛 613 | 🌐 Python | 📅 2026-09-28 [![Stars](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social)](https://github.com/InternLM/lmdeploy) ⭐ 8,103 | 🐛 613 | 🌐 Python | 📅 2026-09-28
 
-* Mooncake: KVCache-centric disaggregated serving platform, powering the Kimi LLM service [\[Code\]](https://github.com/kvcache-ai/Mooncake) ⭐ 6,726 | 🐛 687 | 🌐 C++ | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/kvcache-ai/Mooncake?style=social)](https://github.com/kvcache-ai/Mooncake) ⭐ 6,726 | 🐛 687 | 🌐 C++ | 📅 2026-10-07
+* Mooncake: KVCache-centric disaggregated serving platform, powering the Kimi LLM service [\[Code\]](https://github.com/kvcache-ai/Mooncake) ⭐ 6,737 | 🐛 692 | 🌐 C++ | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/kvcache-ai/Mooncake?style=social)](https://github.com/kvcache-ai/Mooncake) ⭐ 6,737 | 🐛 692 | 🌐 C++ | 📅 2026-10-08
 
 * gpt-fast: Simple and efficient pytorch-native transformer text generation in <1000 LOC of python. [\[Code\]](https://github.com/meta-pytorch/gpt-fast) ⭐ 6,259 | 🐛 111 | 🌐 Python | 📅 2025-08-22 [![Stars](https://img.shields.io/github/stars/meta-pytorch/gpt-fast?style=social)](https://github.com/meta-pytorch/gpt-fast) ⭐ 6,259 | 🐛 111 | 🌐 Python | 📅 2025-08-22
 
-* fastllm: Dependency-free high-performance inference library supporting tensor-parallel dense models and mixed-mode MoE inference on modest GPUs [\[Code\]](https://github.com/ztxz16/fastllm) ⭐ 5,095 | 🐛 351 | 🌐 C++ | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/ztxz16/fastllm?style=social)](https://github.com/ztxz16/fastllm) ⭐ 5,095 | 🐛 351 | 🌐 C++ | 📅 2026-10-07
+* fastllm: Dependency-free high-performance inference library supporting tensor-parallel dense models and mixed-mode MoE inference on modest GPUs [\[Code\]](https://github.com/ztxz16/fastllm) ⭐ 5,095 | 🐛 352 | 🌐 C++ | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/ztxz16/fastllm?style=social)](https://github.com/ztxz16/fastllm) ⭐ 5,095 | 🐛 352 | 🌐 C++ | 📅 2026-10-07
 
-* ExLlamaV2: A fast inference library for running quantized LLMs locally on modern consumer-class GPUs [\[Code\]](https://github.com/turboderp-org/exllamav2) ⭐ 4,631 | 🐛 161 | 🌐 Python | 📅 2026-03-04 [![Stars](https://img.shields.io/github/stars/turboderp-org/exllamav2?style=social)](https://github.com/turboderp-org/exllamav2) ⭐ 4,631 | 🐛 161 | 🌐 Python | 📅 2026-03-04
+* ExLlamaV2: A fast inference library for running quantized LLMs locally on modern consumer-class GPUs [\[Code\]](https://github.com/turboderp-org/exllamav2) ⭐ 4,632 | 🐛 161 | 🌐 Python | 📅 2026-03-04 [![Stars](https://img.shields.io/github/stars/turboderp-org/exllamav2?style=social)](https://github.com/turboderp-org/exllamav2) ⭐ 4,632 | 🐛 161 | 🌐 Python | 📅 2026-03-04
 
-* LLamaSharp: C#/.NET binding of llama.cpp, including LLaMa/GPT model inference and quantization, ASP.NET core integration and UI [\[Code\]](https://github.com/SciSharp/LLamaSharp) ⭐ 3,810 | 🐛 20 | 🌐 C# | 📅 2026-10-05 [![Stars](https://img.shields.io/github/stars/SciSharp/LLamaSharp?style=social)](https://github.com/SciSharp/LLamaSharp) ⭐ 3,810 | 🐛 20 | 🌐 C# | 📅 2026-10-05
+* LLamaSharp: C#/.NET binding of llama.cpp, including LLaMa/GPT model inference and quantization, ASP.NET core integration and UI [\[Code\]](https://github.com/SciSharp/LLamaSharp) ⭐ 3,811 | 🐛 20 | 🌐 C# | 📅 2026-10-05 [![Stars](https://img.shields.io/github/stars/SciSharp/LLamaSharp?style=social)](https://github.com/SciSharp/LLamaSharp) ⭐ 3,811 | 🐛 20 | 🌐 C# | 📅 2026-10-05
 
 * ExLlama: A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights. [\[Code\]](https://github.com/turboderp/exllama) ⭐ 2,945 | 🐛 65 | 🌐 Python | 📅 2023-09-30 [![Stars](https://img.shields.io/github/stars/turboderp/exllama?style=social)](https://github.com/turboderp/exllama) ⭐ 2,945 | 🐛 65 | 🌐 Python | 📅 2023-09-30
 
@@ -2478,23 +2478,23 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 ### Quantization Libraries and Kernels
 
-* bitsandbytes: 8-bit CUDA functions for PyTorch [\[Code\]](https://github.com/bitsandbytes-foundation/bitsandbytes) ⭐ 8,514 | 🐛 95 | 🌐 Python | 📅 2026-09-07 [![Stars](https://img.shields.io/github/stars/bitsandbytes-foundation/bitsandbytes?style=social)](https://github.com/bitsandbytes-foundation/bitsandbytes) ⭐ 8,514 | 🐛 95 | 🌐 Python | 📅 2026-09-07
+* bitsandbytes: 8-bit CUDA functions for PyTorch [\[Code\]](https://github.com/bitsandbytes-foundation/bitsandbytes) ⭐ 8,514 | 🐛 97 | 🌐 Python | 📅 2026-09-07 [![Stars](https://img.shields.io/github/stars/bitsandbytes-foundation/bitsandbytes?style=social)](https://github.com/bitsandbytes-foundation/bitsandbytes) ⭐ 8,514 | 🐛 97 | 🌐 Python | 📅 2026-09-07
 
-* TensorRT Model Optimizer: A unified library of model optimization techniques including quantization, distillation, pruning, NAS and speculative decoding [\[Code\]](https://github.com/NVIDIA/Model-Optimizer) ⭐ 5,237 | 🐛 464 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/NVIDIA/Model-Optimizer?style=social)](https://github.com/NVIDIA/Model-Optimizer) ⭐ 5,237 | 🐛 464 | 🌐 Python | 📅 2026-10-07
+* TensorRT Model Optimizer: A unified library of model optimization techniques including quantization, distillation, pruning, NAS and speculative decoding [\[Code\]](https://github.com/NVIDIA/Model-Optimizer) ⭐ 5,245 | 🐛 474 | 🌐 Python | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/NVIDIA/Model-Optimizer?style=social)](https://github.com/NVIDIA/Model-Optimizer) ⭐ 5,245 | 🐛 474 | 🌐 Python | 📅 2026-10-09
 
-* llm-compressor: Transformers-compatible library for applying quantization and sparsification algorithms to LLMs for optimized vLLM deployment [\[Code\]](https://github.com/vllm-project/llm-compressor) ⭐ 3,855 | 🐛 106 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/vllm-project/llm-compressor?style=social)](https://github.com/vllm-project/llm-compressor) ⭐ 3,855 | 🐛 106 | 🌐 Python | 📅 2026-10-07
+* llm-compressor: Transformers-compatible library for applying quantization and sparsification algorithms to LLMs for optimized vLLM deployment [\[Code\]](https://github.com/vllm-project/llm-compressor) ⭐ 3,859 | 🐛 104 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/vllm-project/llm-compressor?style=social)](https://github.com/vllm-project/llm-compressor) ⭐ 3,859 | 🐛 104 | 🌐 Python | 📅 2026-10-08
 
 * llm-awq: Official implementation of AWQ: Activation-aware Weight Quantization for LLM compression and acceleration (MLSys 2024 Best Paper) [\[Code\]](https://github.com/mit-han-lab/llm-awq) ⭐ 3,649 | 🐛 210 | 🌐 Python | 📅 2025-07-17 [![Stars](https://img.shields.io/github/stars/mit-han-lab/llm-awq?style=social)](https://github.com/mit-han-lab/llm-awq) ⭐ 3,649 | 🐛 210 | 🌐 Python | 📅 2025-07-17
 
 * GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [\[Code\]](https://github.com/qwopqwop200/GPTQ-for-LLaMa) ⭐ 3,070 | 🐛 63 | 🌐 Python | 📅 2024-07-13 [![Stars](https://img.shields.io/github/stars/qwopqwop200/GPTQ-for-LLaMa?style=social)](https://github.com/qwopqwop200/GPTQ-for-LLaMa) ⭐ 3,070 | 🐛 63 | 🌐 Python | 📅 2024-07-13
 
-* torchao: PyTorch-native quantization and sparsity for training and inference [\[Code\]](https://github.com/pytorch/ao) ⭐ 2,993 | 🐛 799 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/pytorch/ao?style=social)](https://github.com/pytorch/ao) ⭐ 2,993 | 🐛 799 | 🌐 Python | 📅 2026-10-07
+* torchao: PyTorch-native quantization and sparsity for training and inference [\[Code\]](https://github.com/pytorch/ao) ⭐ 2,995 | 🐛 810 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/pytorch/ao?style=social)](https://github.com/pytorch/ao) ⭐ 2,995 | 🐛 810 | 🌐 Python | 📅 2026-10-08
 
 * AutoAWQ: Easy-to-use implementation of the AWQ algorithm for 4-bit quantization with a 2x inference speedup [\[Code\]](https://github.com/casper-hansen/AutoAWQ) ⚠️ Archived [![Stars](https://img.shields.io/github/stars/casper-hansen/AutoAWQ?style=social)](https://github.com/casper-hansen/AutoAWQ) ⚠️ Archived
 
-* GPTQModel: LLM quantization toolkit with hardware acceleration for NVIDIA, AMD and Intel GPUs and CPUs, integrated with HF, vLLM and SGLang [\[Code\]](https://github.com/ModelCloud/GPTQModel) ⭐ 1,270 | 🐛 44 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/ModelCloud/GPTQModel?style=social)](https://github.com/ModelCloud/GPTQModel) ⭐ 1,270 | 🐛 44 | 🌐 Python | 📅 2026-10-07
+* GPTQModel: LLM quantization toolkit with hardware acceleration for NVIDIA, AMD and Intel GPUs and CPUs, integrated with HF, vLLM and SGLang [\[Code\]](https://github.com/ModelCloud/GPTQModel) ⭐ 1,270 | 🐛 45 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/ModelCloud/GPTQModel?style=social)](https://github.com/ModelCloud/GPTQModel) ⭐ 1,270 | 🐛 45 | 🌐 Python | 📅 2026-10-08
 
-* Optimum Quanto: A PyTorch quantization backend for Hugging Face Optimum [\[Code\]](https://github.com/huggingface/optimum-quanto) ⭐ 1,052 | 🐛 3 | 🌐 Python | 📅 2026-09-29 [![Stars](https://img.shields.io/github/stars/huggingface/optimum-quanto?style=social)](https://github.com/huggingface/optimum-quanto) ⭐ 1,052 | 🐛 3 | 🌐 Python | 📅 2026-09-29
+* Optimum Quanto: A PyTorch quantization backend for Hugging Face Optimum [\[Code\]](https://github.com/huggingface/optimum-quanto) ⭐ 1,053 | 🐛 3 | 🌐 Python | 📅 2026-09-29 [![Stars](https://img.shields.io/github/stars/huggingface/optimum-quanto?style=social)](https://github.com/huggingface/optimum-quanto) ⭐ 1,053 | 🐛 3 | 🌐 Python | 📅 2026-09-29
 
 * HQQ: Official implementation of Half-Quadratic Quantization, a fast calibration-free quantization method [\[Code\]](https://github.com/dropbox/hqq) ⭐ 959 | 🐛 2 | 🌐 Python | 📅 2026-02-26 [![Stars](https://img.shields.io/github/stars/dropbox/hqq?style=social)](https://github.com/dropbox/hqq) ⭐ 959 | 🐛 2 | 🌐 Python | 📅 2026-02-26
 
@@ -2514,7 +2514,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 ### Model Compression Toolkits
 
-* Intel® Neural Compressor: An open-source Python library supporting popular model compression techniques on all mainstream deep learning frameworks (TensorFlow, PyTorch, ONNX Runtime, and MXNet) [\[Code\]](https://github.com/intel/neural-compressor) ⭐ 2,713 | 🐛 29 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/intel/neural-compressor?style=social)](https://github.com/intel/neural-compressor) ⭐ 2,713 | 🐛 29 | 🌐 Python | 📅 2026-10-07
+* Intel® Neural Compressor: An open-source Python library supporting popular model compression techniques on all mainstream deep learning frameworks (TensorFlow, PyTorch, ONNX Runtime, and MXNet) [\[Code\]](https://github.com/intel/neural-compressor) ⭐ 2,713 | 🐛 28 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/intel/neural-compressor?style=social)](https://github.com/intel/neural-compressor) ⭐ 2,713 | 🐛 28 | 🌐 Python | 📅 2026-10-08
 
 * SparseML: Libraries for applying sparsification recipes to neural networks, enabling faster and smaller models [\[Code\]](https://github.com/neuralmagic/sparseml) ⚠️ Archived [![Stars](https://img.shields.io/github/stars/neuralmagic/sparseml?style=social)](https://github.com/neuralmagic/sparseml) ⚠️ Archived
 
@@ -2522,7 +2522,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * Transformer Compression: For releasing code related to compression methods for transformers, accompanying our publications [\[Code\]](https://github.com/microsoft/TransformerCompression) ⭐ 462 | 🐛 27 | 🌐 Python | 📅 2026-09-10 [![Stars](https://img.shields.io/github/stars/microsoft/TransformerCompression?style=social)](https://github.com/microsoft/TransformerCompression) ⭐ 462 | 🐛 27 | 🌐 Python | 📅 2026-09-10
 
-* Sparsebit: A model compression and acceleration toolbox based on pytorch. [\[Code\]](https://github.com/megvii-research/Sparsebit) ⭐ 333 | 🐛 21 | 🌐 Python | 📅 2024-01-12 [![Stars](https://img.shields.io/github/stars/megvii-research/Sparsebit?style=social)](https://github.com/megvii-research/Sparsebit) ⭐ 333 | 🐛 21 | 🌐 Python | 📅 2024-01-12
+* Sparsebit: A model compression and acceleration toolbox based on pytorch. [\[Code\]](https://github.com/megvii-research/Sparsebit) ⭐ 332 | 🐛 21 | 🌐 Python | 📅 2024-01-12 [![Stars](https://img.shields.io/github/stars/megvii-research/Sparsebit?style=social)](https://github.com/megvii-research/Sparsebit) ⭐ 332 | 🐛 21 | 🌐 Python | 📅 2024-01-12
 
 * BMCook: Model Compression for Big Models [\[Code\]](https://github.com/OpenBMB/BMCook) ⭐ 173 | 🐛 6 | 🌐 Python | 📅 2026-07-07 [![Stars](https://img.shields.io/github/stars/OpenBMB/BMCook?style=social)](https://github.com/OpenBMB/BMCook) ⭐ 173 | 🐛 6 | 🌐 Python | 📅 2026-07-07
 
@@ -2532,7 +2532,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 ### KV Cache and Prompt Compression
 
-* LMCache: A KV cache layer that speeds up LLM serving by reusing and offloading caches across queries [\[Code\]](https://github.com/LMCache/LMCache) ⭐ 11,972 | 🐛 765 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/LMCache/LMCache?style=social)](https://github.com/LMCache/LMCache) ⭐ 11,972 | 🐛 765 | 🌐 Python | 📅 2026-10-07
+* LMCache: A KV cache layer that speeds up LLM serving by reusing and offloading caches across queries [\[Code\]](https://github.com/LMCache/LMCache) ⭐ 11,981 | 🐛 773 | 🌐 Python | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/LMCache/LMCache?style=social)](https://github.com/LMCache/LMCache) ⭐ 11,981 | 🐛 773 | 🌐 Python | 📅 2026-10-09
 
 * MInference: Dynamic sparse attention that accelerates long-context LLM prefill by up to 10x [\[Code\]](https://github.com/microsoft/MInference) ⭐ 1,228 | 🐛 97 | 🌐 Python | 📅 2026-09-10 [![Stars](https://img.shields.io/github/stars/microsoft/MInference?style=social)](https://github.com/microsoft/MInference) ⭐ 1,228 | 🐛 97 | 🌐 Python | 📅 2026-09-10
 
@@ -2544,11 +2544,11 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 ### Training and Fine-Tuning
 
-* Unsloth: Faster and more memory-efficient LLM fine-tuning with 4-bit quantization and custom kernels [\[Code\]](https://github.com/unslothai/unsloth) ⭐ 77,375 | 🐛 886 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social)](https://github.com/unslothai/unsloth) ⭐ 77,375 | 🐛 886 | 🌐 Python | 📅 2026-10-07
+* Unsloth: Faster and more memory-efficient LLM fine-tuning with 4-bit quantization and custom kernels [\[Code\]](https://github.com/unslothai/unsloth) ⭐ 77,530 | 🐛 763 | 🌐 Python | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social)](https://github.com/unslothai/unsloth) ⭐ 77,530 | 🐛 763 | 🌐 Python | 📅 2026-10-09
 
-* LLaMA-Factory: Unify Efficient Fine-Tuning of 100+ LLMs [\[Code\]](https://github.com/hiyouga/LlamaFactory) ⭐ 75,351 | 🐛 1,176 | 🌐 Python | 📅 2026-09-28 [![Stars](https://img.shields.io/github/stars/hiyouga/LlamaFactory?style=social)](https://github.com/hiyouga/LlamaFactory) ⭐ 75,351 | 🐛 1,176 | 🌐 Python | 📅 2026-09-28
+* LLaMA-Factory: Unify Efficient Fine-Tuning of 100+ LLMs [\[Code\]](https://github.com/hiyouga/LlamaFactory) ⭐ 75,365 | 🐛 1,179 | 🌐 Python | 📅 2026-09-28 [![Stars](https://img.shields.io/github/stars/hiyouga/LlamaFactory?style=social)](https://github.com/hiyouga/LlamaFactory) ⭐ 75,365 | 🐛 1,179 | 🌐 Python | 📅 2026-09-28
 
-* Megatron-LM: Ongoing research training transformer models at scale [\[Code\]](https://github.com/NVIDIA/Megatron-LM) ⭐ 18,080 | 🐛 1,568 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?style=social)](https://github.com/NVIDIA/Megatron-LM) ⭐ 18,080 | 🐛 1,568 | 🌐 Python | 📅 2026-10-08
+* Megatron-LM: Ongoing research training transformer models at scale [\[Code\]](https://github.com/NVIDIA/Megatron-LM) ⭐ 18,088 | 🐛 1,586 | 🌐 Python | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?style=social)](https://github.com/NVIDIA/Megatron-LM) ⭐ 18,088 | 🐛 1,586 | 🌐 Python | 📅 2026-10-09
 
 * lit-gpt: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. [\[Code\]](https://github.com/Lightning-AI/litgpt) ⭐ 13,696 | 🐛 311 | 🌐 Python | 📅 2026-10-07 [![Stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=social)](https://github.com/Lightning-AI/litgpt) ⭐ 13,696 | 🐛 311 | 🌐 Python | 📅 2026-10-07
 
@@ -2564,13 +2564,13 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 * Can my GPU run this LLM?: Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization [\[Code\]](https://github.com/RahulSChand/gpu_poor) ⭐ 1,400 | 🐛 8 | 🌐 JavaScript | 📅 2024-12-03 [![Stars](https://img.shields.io/github/stars/RahulSChand/gpu_poor?style=social)](https://github.com/RahulSChand/gpu_poor) ⭐ 1,400 | 🐛 8 | 🌐 JavaScript | 📅 2024-12-03
 
-* LLM-Viewer: Analyze the inference of Large Language Models (LLMs). Analyze aspects like computation, storage, transmission, and hardware roofline model in a user-friendly interface. [\[Code\]](https://github.com/hahnyuan/LLM-Viewer) ⭐ 682 | 🐛 16 | 🌐 Python | 📅 2024-09-11 [![Stars](https://img.shields.io/github/stars/hahnyuan/LLM-Viewer?style=social)](https://github.com/hahnyuan/LLM-Viewer) ⭐ 682 | 🐛 16 | 🌐 Python | 📅 2024-09-11
+* LLM-Viewer: Analyze the inference of Large Language Models (LLMs). Analyze aspects like computation, storage, transmission, and hardware roofline model in a user-friendly interface. [\[Code\]](https://github.com/hahnyuan/LLM-Viewer) ⭐ 684 | 🐛 16 | 🌐 Python | 📅 2024-09-11 [![Stars](https://img.shields.io/github/stars/hahnyuan/LLM-Viewer?style=social)](https://github.com/hahnyuan/LLM-Viewer) ⭐ 684 | 🐛 16 | 🌐 Python | 📅 2024-09-11
 
 * LLaMA3-Quantization: A repository dedicated to evaluating the performance of quantizied LLaMA3 using various quantization methods. [\[Code\]](https://github.com/Macaronlin/LLaMA3-Quantization) ⭐ 200 | 🐛 12 | 🌐 Python | 📅 2025-01-14 [![Stars](https://img.shields.io/github/stars/Macaronlin/LLaMA3-Quantization?style=social)](https://github.com/Macaronlin/LLaMA3-Quantization) ⭐ 200 | 🐛 12 | 🌐 Python | 📅 2025-01-14
 
 ### Other Tools
 
-* LangChain: Building applications with LLMs through composability [\[Code\]](https://github.com/langchain-ai/langchain) ⭐ 147,544 | 🐛 629 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)](https://github.com/langchain-ai/langchain) ⭐ 147,544 | 🐛 629 | 🌐 Python | 📅 2026-10-08
+* LangChain: Building applications with LLMs through composability [\[Code\]](https://github.com/langchain-ai/langchain) ⭐ 147,399 | 🐛 633 | 🌐 Python | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)](https://github.com/langchain-ai/langchain) ⭐ 147,399 | 🐛 633 | 🌐 Python | 📅 2026-10-08
 
 * llama-zip: LLM-powered lossless compression tool [\[Code\]](https://github.com/AlexBuz/llama-zip) ⭐ 321 | 🐛 0 | 🌐 Python | 📅 2026-06-16 [![Stars](https://img.shields.io/github/stars/AlexBuz/llama-zip?style=social)](https://github.com/AlexBuz/llama-zip) ⭐ 321 | 🐛 0 | 🌐 Python | 📅 2026-06-16
 
@@ -2603,4 +2603,4 @@ Thanks again for all the awesome contributors to this list!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
