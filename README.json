@@ -69,11 +69,11 @@
                     "id": 976083816,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-10-26T02:34:31Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-27T06:35:09Z",
+                    "open_issues": 1,
                     "owner": "sihyeong",
                     "repo": "Awesome-LLM-Inference-Engine",
-                    "stars": 249,
+                    "stars": 250,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -295,11 +295,11 @@
                     "id": 1013493454,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-14T10:37:52Z",
-                    "open_issues": 68,
+                    "last_commit": "2026-10-27T08:42:17Z",
+                    "open_issues": 69,
                     "owner": "Tencent",
                     "repo": "AngelSlim",
-                    "stars": 1775,
+                    "stars": 1777,
                     "topics": [
                       "audio",
                       "deepseek",
@@ -393,6 +393,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Statistically-Lossless Quantization of Large Language Models Arxiv 2026 [Paper]",
+                  "description": "IST-DASLab/SLQ",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Statistically-Lossless Quantization of Large Language Models",
+                    "homepage": "https://arxiv.org/abs/2605.02404",
+                    "id": 1226727070,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-08T18:49:23Z",
+                    "open_issues": 1,
+                    "owner": "IST-DASLab",
+                    "repo": "SLQ",
+                    "stars": 48,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:01:26.130Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs ICML 2026 [Paper]",
                   "description": "IntelChina-AI/BitTern",
                   "children": [],
@@ -407,7 +428,7 @@
                     "open_issues": 2,
                     "owner": "IntelChina-AI",
                     "repo": "BitTern",
-                    "stars": 43,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -428,28 +449,7 @@
                     "open_issues": 2,
                     "owner": "IntelChina-AI",
                     "repo": "BitTern",
-                    "stars": 43,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T05:01:26.130Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Statistically-Lossless Quantization of Large Language Models Arxiv 2026 [Paper]",
-                  "description": "IST-DASLab/SLQ",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Statistically-Lossless Quantization of Large Language Models",
-                    "homepage": "https://arxiv.org/abs/2605.02404",
-                    "id": 1226727070,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-10-08T18:49:23Z",
-                    "open_issues": 1,
-                    "owner": "IST-DASLab",
-                    "repo": "SLQ",
-                    "stars": 32,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -470,7 +470,7 @@
                     "open_issues": 0,
                     "owner": "deep-optimization",
                     "repo": "SliderQuant",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -586,6 +586,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models Arxiv 2026 [Paper]",
+                  "description": "Pushazf/SPHQuant",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[NeurIPS 2026] SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models",
+                    "homepage": null,
+                    "id": 1378706104,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-09-26T07:40:56Z",
+                    "open_issues": 0,
+                    "owner": "Pushazf",
+                    "repo": "SPHQuant",
+                    "stars": 7,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "InfoQuant: Shaping Activation Distributions for Low-Bit LLM Quantization Arxiv 2026 [Paper]",
                   "description": "LLIKKE/InfoQuant",
                   "children": [],
@@ -625,6 +646,258 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "G$^2$PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation Arxiv 2026 [Paper]",
+                  "description": "G2PTQ/G2PTQ",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official PyTorch implementation of \"G2PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation\"",
+                    "homepage": null,
+                    "id": 1386716989,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-29T15:19:24Z",
+                    "open_issues": 0,
+                    "owner": "G2PTQ",
+                    "repo": "G2PTQ",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "RATIO: Reasoning Analysis and Token-level Inference Optimization for Quantized Reasoning Models Arxiv 2026 [Paper]",
+                  "description": "steven-bao1/RATIO",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "RATIO: Reasoning Analysis and Token-level Inference Optimization for Quantized Reasoning Models",
+                    "homepage": null,
+                    "id": 1395368906,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-17T03:47:10Z",
+                    "open_issues": 0,
+                    "owner": "steven-bao1",
+                    "repo": "RATIO",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "The Devil Is in the Reconstruction Loss Scale: Rethinking Optimization in LLM Quantization Arxiv 2026 [Paper]",
+                  "description": "IntelChina-AI/RMSE",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The Devil Is in the Reconstruction Loss Scale: Rethinking Optimization in LLM Quantization",
+                    "homepage": null,
+                    "id": 1396840490,
+                    "language": null,
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-09T02:19:55Z",
+                    "open_issues": 0,
+                    "owner": "IntelChina-AI",
+                    "repo": "RMSE",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization Arxiv 2026 [Paper]",
+                  "description": "VILA-Lab/optic",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "OPTIC: Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization",
+                    "homepage": "https://arxiv.org/abs/2610.31309",
+                    "id": 1429746076,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-23T03:47:05Z",
+                    "open_issues": 0,
+                    "owner": "VILA-Lab",
+                    "repo": "optic",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAGE: Pushing 2-Bit Vector-Quantized LLMs toward Real-World Usability Arxiv 2026 [Paper]",
+                  "description": "Zincwolf/sage",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official repo for SAGE: Pushing 2-bit Vector-Quantized LLMs Toward Real-World Usability",
+                    "homepage": null,
+                    "id": 1345965441,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-14T04:51:53Z",
+                    "open_issues": 0,
+                    "owner": "Zincwolf",
+                    "repo": "sage",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Differentiable Bit-Widths: Co-optimizing Pruning and Quantization via SVD for Ultra-Efficient LLM Compression NeurIPS 2026 [Paper]",
+                  "description": "MMAI-Laboratory/DBW",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[NeurIPS'26] Differentiable Bit-Widths: Co-Optimizing Pruning and Quantization via SVD for Ultra-Efficient LLM Compression",
+                    "homepage": "https://arxiv.org/abs/2610.06026",
+                    "id": 1388619259,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-06T08:10:14Z",
+                    "open_issues": 0,
+                    "owner": "MMAI-Laboratory",
+                    "repo": "DBW",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "LoopQuant: Accurate and Efficient Post-Training Quantization for Looped Transformers Arxiv 2026 [Paper]",
+                  "description": "Kishon-zzx/LoopQuant",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1385505945,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-21T07:42:09Z",
+                    "open_issues": 0,
+                    "owner": "Kishon-zzx",
+                    "repo": "LoopQuant",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Small-State Coset Trellis Coding at IQ2_XXS Size: An Equal-Bytes Study in llama.cpp Preprint 2026 [Paper]",
+                  "description": "Genrius-AI/pingala8-llm",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "2-bit LLMs for llama.cpp: 85% smaller, beats IQ2_XXS at the same size, no retraining. One-click Windows build.",
+                    "homepage": "https://genrius-ai.github.io/pingala8-llm/",
+                    "id": 1425428158,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-27T07:50:31Z",
+                    "open_issues": 6,
+                    "owner": "Genrius-AI",
+                    "repo": "pingala8-llm",
+                    "stars": 3,
+                    "topics": [
+                      "2-bit",
+                      "ai",
+                      "cuda",
+                      "deep-learning",
+                      "generative-ai",
+                      "gguf",
+                      "inference",
+                      "large-language-models",
+                      "llama",
+                      "llama-cpp",
+                      "llama3",
+                      "llm",
+                      "llm-inference",
+                      "local-llm",
+                      "machine-learning",
+                      "model-compression",
+                      "post-training-quantization",
+                      "quantization",
+                      "qwen3",
+                      "trellis-coded-quantization"
+                    ]
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Beyond Reconstruction Loss in Post-Training Quantization: Balanced Fitting for Large Vision-Language Models Arxiv 2026 [Paper]",
+                  "description": "kmc3661/BFQ",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Beyond Reconstruction Loss in Post-Training Quantization: Balanced Fitting for Large Vision-Language Models",
+                    "homepage": null,
+                    "id": 1391832687,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-05T15:11:12Z",
+                    "open_issues": 0,
+                    "owner": "kmc3661",
+                    "repo": "BFQ",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "OSFP4: Joint Optimization of Diagonal Smoothing and Block Scales for NVFP4 Quantization Arxiv 2026 [Paper]",
+                  "description": "neriahbd/OSFP4",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1398096096,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-08T07:24:51Z",
+                    "open_issues": 1,
+                    "owner": "neriahbd",
+                    "repo": "OSFP4",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "AlignQuant: Tile-Aligned Mixed-Precision Quantization for Efficient LLM Generation Arxiv 2026 [Paper]",
+                  "description": "HanzhiZhang-Ulrica/AlignQuant",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1384102595,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-09-25T04:11:21Z",
+                    "open_issues": 0,
+                    "owner": "HanzhiZhang-Ulrica",
+                    "repo": "AlignQuant",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
                 },
                 {
                   "node_type": "item",
@@ -688,11 +961,151 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Quantization-Robust Unlearning through the Lens of Retain-Forget Loss Landscapes Interaction Arxiv 2026 [Paper]",
+                  "description": "jialuw0830/QRUnlearn",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Quantization-Robust Unlearning through the Lens of Retain-Forget Loss Landscapes Interaction (COLM 2026)",
+                    "homepage": null,
+                    "id": 1413182990,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-10T13:01:36Z",
+                    "open_issues": 0,
+                    "owner": "jialuw0830",
+                    "repo": "QRUnlearn",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Behavioral Capacity Certificates for Quantized Language Models Arxiv 2026 [Paper]",
+                  "description": "eamaz/bcc",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code, notebooks, frozen protocols, and reproducibility results for Behavioral Capacity Certificates for Quantized Language Models.",
+                    "homepage": null,
+                    "id": 1395784416,
+                    "language": "Jupyter Notebook",
+                    "license": "MIT",
+                    "last_commit": "2026-09-29T16:38:41Z",
+                    "open_issues": 0,
+                    "owner": "eamaz",
+                    "repo": "bcc",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Saying, Not Knowing: Aggressively GGUF-Quantized Small Language Models Still Write Rare Words They Can No Longer Define Arxiv 2026 [Paper]",
+                  "description": "NietzscheDostoevsky/snk-release",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1343886536,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-01T02:59:10Z",
+                    "open_issues": 0,
+                    "owner": "NietzscheDostoevsky",
+                    "repo": "snk-release",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "BARQ: Balanced Codebook Refinement for Low-Bit LLM Quantization Arxiv 2026 [Paper]",
+                  "description": "chenhangcuisg-code/BARQ",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "BARQ: Balanced Codebook Refinement for Low-Bit LLM Quantization — code and reproduction commands",
+                    "homepage": "https://chenhangcuisg-code.github.io/BARQ/",
+                    "id": 1402655193,
+                    "language": "Python",
+                    "license": "BSD-3-Clause-Clear",
+                    "last_commit": "2026-10-13T13:02:34Z",
+                    "open_issues": 0,
+                    "owner": "chenhangcuisg-code",
+                    "repo": "BARQ",
+                    "stars": 0,
+                    "topics": [
+                      "llm",
+                      "model-compression",
+                      "optimal-transport",
+                      "post-training-quantization",
+                      "quantization",
+                      "sinkhorn",
+                      "vector-quantization"
+                    ]
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Understanding the Weight Averaging Mechanism in LLM Training for Post-Training Quantization Arxiv 2026 [Paper]",
+                  "description": "MOFA-LAB/weight-averaging-for-ptq",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code for Understanding the Weight Averaging Mechanism in LLM Training for Post-Training Quantization.",
+                    "homepage": null,
+                    "id": 1404550847,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-04T15:15:24Z",
+                    "open_issues": 0,
+                    "owner": "MOFA-LAB",
+                    "repo": "weight-averaging-for-ptq",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "What You Sign Is Not What You Run: The Verifiability Gap in Quantized LLM Supply Chains Arxiv 2026 [Paper]",
+                  "description": "Rlonglong/gguf-verifiability-artifact",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Artifact for \"What You Sign Is Not What You Run: The Verifiability Gap in Quantized LLM Supply Chains\" (arXiv, 2026): frozen census of 198 GGUF repositories, per-tensor re-derivation results, imatrix regeneration, tampering-detection sweeps, and the scripts that regenerate every figure and number.",
+                    "homepage": null,
+                    "id": 1397557761,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-21T09:48:00Z",
+                    "open_issues": 0,
+                    "owner": "Rlonglong",
+                    "repo": "gguf-verifiability-artifact",
+                    "stars": 0,
+                    "topics": [
+                      "gguf",
+                      "llama-cpp",
+                      "model-signing",
+                      "reproducible-builds",
+                      "supply-chain-security"
+                    ]
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
                 }
               ],
               "description": null,
               "node_type": "group",
-              "title": "2026 &nbsp;·&nbsp; 57 papers"
+              "title": "2026 &nbsp;·&nbsp; 85 papers"
             },
             {
               "children": [
@@ -708,11 +1121,11 @@
                     "id": 738776129,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T05:21:10Z",
-                    "open_issues": 106,
+                    "last_commit": "2026-10-27T15:00:10Z",
+                    "open_issues": 110,
                     "owner": "intel",
                     "repo": "auto-round",
-                    "stars": 1690,
+                    "stars": 1693,
                     "topics": [
                       "diffusers",
                       "gguf",
@@ -747,7 +1160,7 @@
                     "open_issues": 10,
                     "owner": "NVlabs",
                     "repo": "QeRL",
-                    "stars": 527,
+                    "stars": 526,
                     "topics": [
                       "llms",
                       "quantization",
@@ -1166,7 +1579,7 @@
                     "id": 494232964,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-26T18:12:04Z",
+                    "last_commit": "2026-10-27T19:58:43Z",
                     "open_issues": 1383,
                     "owner": "Dao-AILab",
                     "repo": "flash-attention",
@@ -1191,7 +1604,7 @@
                     "open_issues": 215,
                     "owner": "thu-ml",
                     "repo": "SageAttention",
-                    "stars": 3978,
+                    "stars": 3980,
                     "topics": [
                       "attention",
                       "cuda",
@@ -1246,7 +1659,7 @@
                     "open_issues": 37,
                     "owner": "IST-DASLab",
                     "repo": "marlin",
-                    "stars": 1171,
+                    "stars": 1172,
                     "topics": [
                       "4bit",
                       "kernel",
@@ -1293,7 +1706,7 @@
                     "open_issues": 55,
                     "owner": "mit-han-lab",
                     "repo": "omniserve",
-                    "stars": 866,
+                    "stars": 867,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -1459,7 +1872,7 @@
                     "open_issues": 7,
                     "owner": "NVlabs",
                     "repo": "COAT",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -2378,11 +2791,11 @@
                     "id": 235860204,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T23:58:31Z",
-                    "open_issues": 1572,
+                    "last_commit": "2026-10-27T17:40:06Z",
+                    "open_issues": 1574,
                     "owner": "deepspeedai",
                     "repo": "DeepSpeed",
-                    "stars": 43277,
+                    "stars": 43269,
                     "topics": [
                       "billion-parameters",
                       "compression",
@@ -2413,11 +2826,11 @@
                     "id": 235860204,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T23:58:31Z",
-                    "open_issues": 1572,
+                    "last_commit": "2026-10-27T17:40:06Z",
+                    "open_issues": 1574,
                     "owner": "deepspeedai",
                     "repo": "DeepSpeed",
-                    "stars": 43277,
+                    "stars": 43269,
                     "topics": [
                       "billion-parameters",
                       "compression",
@@ -2448,11 +2861,11 @@
                     "id": 235860204,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T23:58:31Z",
-                    "open_issues": 1572,
+                    "last_commit": "2026-10-27T17:40:06Z",
+                    "open_issues": 1574,
                     "owner": "deepspeedai",
                     "repo": "DeepSpeed",
-                    "stars": 43277,
+                    "stars": 43269,
                     "topics": [
                       "billion-parameters",
                       "compression",
@@ -2487,7 +2900,7 @@
                     "open_issues": 207,
                     "owner": "artidoro",
                     "repo": "qlora",
-                    "stars": 11056,
+                    "stars": 11058,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -2505,7 +2918,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-07-17T19:44:51Z",
-                    "open_issues": 210,
+                    "open_issues": 209,
                     "owner": "mit-han-lab",
                     "repo": "llm-awq",
                     "stars": 3656,
@@ -2525,11 +2938,11 @@
                     "id": 281528773,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T13:10:39Z",
-                    "open_issues": 29,
+                    "last_commit": "2026-10-27T14:27:43Z",
+                    "open_issues": 31,
                     "owner": "intel",
                     "repo": "neural-compressor",
-                    "stars": 2727,
+                    "stars": 2729,
                     "topics": [
                       "auto-tuning",
                       "awq",
@@ -2564,11 +2977,11 @@
                     "id": 281528773,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T13:10:39Z",
-                    "open_issues": 29,
+                    "last_commit": "2026-10-27T14:27:43Z",
+                    "open_issues": 31,
                     "owner": "intel",
                     "repo": "neural-compressor",
-                    "stars": 2727,
+                    "stars": 2729,
                     "topics": [
                       "auto-tuning",
                       "awq",
@@ -2641,11 +3054,11 @@
                     "id": 738776129,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T05:21:10Z",
-                    "open_issues": 106,
+                    "last_commit": "2026-10-27T15:00:10Z",
+                    "open_issues": 110,
                     "owner": "intel",
                     "repo": "auto-round",
-                    "stars": 1690,
+                    "stars": 1693,
                     "topics": [
                       "diffusers",
                       "gguf",
@@ -2680,7 +3093,7 @@
                     "open_issues": 33,
                     "owner": "OpenGVLab",
                     "repo": "OmniQuant",
-                    "stars": 964,
+                    "stars": 967,
                     "topics": [
                       "large-language-models",
                       "llm",
@@ -2705,7 +3118,7 @@
                     "open_issues": 21,
                     "owner": "SqueezeAILab",
                     "repo": "SqueezeLLM",
-                    "stars": 725,
+                    "stars": 724,
                     "topics": [
                       "efficient-inference",
                       "large-language-models",
@@ -3209,11 +3622,11 @@
                     "id": 235860204,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T23:58:31Z",
-                    "open_issues": 1572,
+                    "last_commit": "2026-10-27T17:40:06Z",
+                    "open_issues": 1574,
                     "owner": "deepspeedai",
                     "repo": "DeepSpeed",
-                    "stars": 43277,
+                    "stars": 43269,
                     "topics": [
                       "billion-parameters",
                       "compression",
@@ -3244,11 +3657,11 @@
                     "id": 373674258,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-19T14:35:27Z",
-                    "open_issues": 109,
+                    "last_commit": "2026-10-27T21:28:24Z",
+                    "open_issues": 108,
                     "owner": "bitsandbytes-foundation",
                     "repo": "bitsandbytes",
-                    "stars": 8533,
+                    "stars": 8535,
                     "topics": [
                       "llm",
                       "machine-learning",
@@ -3296,7 +3709,7 @@
                     "open_issues": 73,
                     "owner": "mit-han-lab",
                     "repo": "smoothquant",
-                    "stars": 1698,
+                    "stars": 1700,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -3336,6 +3749,27 @@
           "children": [
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "Sample-Guided Exact Top-K Selection for Long-Context Sparse Attention Arxiv 2026 [Paper]",
+                  "description": "Tencent/hpc-ops",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "High Performance LLM Inference Operator Library",
+                    "homepage": null,
+                    "id": 1138010384,
+                    "language": "C++",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-09-07T05:19:02Z",
+                    "open_issues": 31,
+                    "owner": "Tencent",
+                    "repo": "hpc-ops",
+                    "stars": 1185,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
                 {
                   "node_type": "item",
                   "title": "Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding Arxiv 2026 [Paper]",
@@ -3402,6 +3836,48 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SparseEngine: Sparse-First Inference Engine Arxiv 2026 [Paper]",
+                  "description": "CURRENTF/SparseEngine",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A sparse-first inference engine (SparseEngine).",
+                    "homepage": null,
+                    "id": 1145032762,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-27T13:28:32Z",
+                    "open_issues": 2,
+                    "owner": "CURRENTF",
+                    "repo": "SparseEngine",
+                    "stars": 106,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning Arxiv 2026 [Paper]",
+                  "description": "token-gate-llms/TokenGate",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "https://arxiv.org/abs/2610.26754 Process all your context faster with LLMs that can skim and read what matters",
+                    "homepage": null,
+                    "id": 1425925617,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-21T07:29:30Z",
+                    "open_issues": 0,
+                    "owner": "token-gate-llms",
+                    "repo": "TokenGate",
+                    "stars": 93,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
                 },
                 {
                   "node_type": "item",
@@ -3590,6 +4066,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "MWOP: Modality-aware Width-wise Operation Pruning for Efficient MLLMs Arxiv 2026 [Paper]",
+                  "description": "EIT-NLP/MWOP",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1346773578,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-03T11:46:07Z",
+                    "open_issues": 0,
+                    "owner": "EIT-NLP",
+                    "repo": "MWOP",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference ACL Findings 2026 [Paper]",
                   "description": "TANIGUCHIREI/ASL",
                   "children": [],
@@ -3691,6 +4188,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Residual Sparsification via Output Importance for Compressing Mixture-of-Experts LLMs EMNLP 2026 [Paper]",
+                  "description": "OSSS-KU/PARSER",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An official Implementation of \"Residual Sparsification via Output Importance for Compressing Mixture-of-Experts LLMs\" (EMNLP main 2026). ",
+                    "homepage": null,
+                    "id": 1340334515,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-08-20T05:57:48Z",
+                    "open_issues": 0,
+                    "owner": "OSSS-KU",
+                    "repo": "PARSER",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Compute Where it Counts: Self Optimizing Language Models Arxiv 2026 [Paper]",
                   "description": "akhauriyash/SOL",
                   "children": [],
@@ -3754,6 +4272,31 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Train Overcomplete, Deploy Compact: Scaling Recovery Capacity for Structured LLM Pruning EMNLP 2026 [Paper]",
+                  "description": "MMAI-Laboratory/OverRep",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[EMNLP2026] Official source code for Train Overcomplete, Deploy Compact: Scaling Recovery Capacity for Structured LLM Pruning.",
+                    "homepage": "https://mmai-laboratory.github.io/OverRep/",
+                    "id": 1353220058,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-12T07:30:33Z",
+                    "open_issues": 0,
+                    "owner": "MMAI-Laboratory",
+                    "repo": "OverRep",
+                    "stars": 2,
+                    "topics": [
+                      "llm",
+                      "re-parameterization",
+                      "structured-pruning"
+                    ]
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Compressing LLMs with MoP: Mixture of Pruners Arxiv 2026 [Paper]",
                   "description": "c2d-usp/Efficient-LLMs-with-MoP",
                   "children": [],
@@ -3803,6 +4346,80 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Where Activation Sparsity and KV-Cache Sparsity Cross in LLM Decoding Arxiv 2026 [Paper]",
+                  "description": "js-lee-AI/ByteCross",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "LLM inference: compare activation and KV-cache sparsity through memory-traffic models and GPU decoding benchmarks.",
+                    "homepage": "https://js-lee-ai.github.io/ByteCross/",
+                    "id": 1391430299,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-11T15:11:19Z",
+                    "open_issues": 0,
+                    "owner": "js-lee-AI",
+                    "repo": "ByteCross",
+                    "stars": 1,
+                    "topics": [
+                      "activation-sparsity",
+                      "efficient-inference",
+                      "gpu-benchmarking",
+                      "kv-cache",
+                      "llm-inference",
+                      "sparse-attention"
+                    ]
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "GroupMask: Layer-Adaptive Group-wise Sparsity for Semi-Structured LLM Pruning Arxiv 2026 [Paper]",
+                  "description": "ZhengaoLi/GroupMask",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An official implementation of Paper \"GroupMask: Layer-Adaptive Group-wise Sparsity for Semi-Structured LLM Pruning\"",
+                    "homepage": null,
+                    "id": 1346863811,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-08-26T03:35:25Z",
+                    "open_issues": 0,
+                    "owner": "ZhengaoLi",
+                    "repo": "GroupMask",
+                    "stars": 1,
+                    "topics": [
+                      "efficiency",
+                      "llm",
+                      "pruning"
+                    ]
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "IrekoGPT: Turning Structured Pruning into Post-Hoc Slimmable LLMs NeurIPS 2026 Workshop [Paper]",
+                  "description": "aimagelab/IrekoGPT",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "IrekoGPT: Turning Structured Pruning into Post-Hoc Slimmable LLMs (NeurIPS 2026 AXIOM: Foundations of Efficient Deep Learning)",
+                    "homepage": null,
+                    "id": 1397729890,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-30T15:45:46Z",
+                    "open_issues": 0,
+                    "owner": "aimagelab",
+                    "repo": "IrekoGPT",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Router Sensitivity Under Lightweight Fine-Tuning Identifies Prunable Experts in Mixture-of-Experts Models Arxiv 2026 [Paper]",
                   "description": "ianKa1/MoE_pruning",
                   "children": [],
@@ -3821,11 +4438,74 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "PQ-HSA: Reusing Product-Quantized Scores for Hybrid Sparse-Approximate Attention Arxiv 2026 [Paper]",
+                  "description": "KunmingSHAO/pqhsa_release",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1388470982,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-26T07:50:57Z",
+                    "open_issues": 0,
+                    "owner": "KunmingSHAO",
+                    "repo": "pqhsa_release",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Beyond Adjacent Layers: Graph-Guided Layer Fusion for Compressing Large Language Models NeurIPS 2026 [Paper]",
+                  "description": "Usama1002/fcm-layer-fusion",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "FCM: Depth compression for LLMs via graph community detection + BI-guided layer selection. Outperforms ShortGPT on 10/11 models (up to 50%).",
+                    "homepage": "https://arxiv.org/abs/2610.15159",
+                    "id": 1207286112,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-19T04:32:11Z",
+                    "open_issues": 0,
+                    "owner": "Usama1002",
+                    "repo": "fcm-layer-fusion",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Fine-Grained Units, Flat Decisions: Hierarchical Micro-Expert Pruning for Mixture-of-Experts Models Arxiv 2026 [Paper]",
+                  "description": "xzktx003/UC_RAMP",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "UC-RAMP: reproducible hierarchical channel pruning for mixture-of-experts models",
+                    "homepage": null,
+                    "id": 1414995764,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-12T03:25:30Z",
+                    "open_issues": 0,
+                    "owner": "xzktx003",
+                    "repo": "UC_RAMP",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
                 }
               ],
               "description": null,
               "node_type": "group",
-              "title": "2026 &nbsp;·&nbsp; 35 papers"
+              "title": "2026 &nbsp;·&nbsp; 54 papers"
             },
             {
               "children": [
@@ -3887,7 +4567,7 @@
                     "open_issues": 1,
                     "owner": "mts-ai",
                     "repo": "ReplaceMe",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -4402,7 +5082,7 @@
                     "open_issues": 6,
                     "owner": "mit-han-lab",
                     "repo": "Quest",
-                    "stars": 413,
+                    "stars": 414,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -4451,7 +5131,7 @@
                     "open_issues": 22,
                     "owner": "42Shawn",
                     "repo": "LLaVA-PruMerge",
-                    "stars": 177,
+                    "stars": 176,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -5079,7 +5759,7 @@
                     "open_issues": 36,
                     "owner": "FMInference",
                     "repo": "H2O",
-                    "stars": 537,
+                    "stars": 536,
                     "topics": [
                       "gpt-3",
                       "heavy-hitters",
@@ -5128,7 +5808,7 @@
                     "open_issues": 7,
                     "owner": "AlibabaResearch",
                     "repo": "flash-llm",
-                    "stars": 247,
+                    "stars": 246,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -5432,7 +6112,7 @@
                     "open_issues": 1,
                     "owner": "Ahren09",
                     "repo": "UniSD",
-                    "stars": 862,
+                    "stars": 867,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -5453,7 +6133,7 @@
                     "open_issues": 8,
                     "owner": "siyan-zhao",
                     "repo": "OPSD",
-                    "stars": 687,
+                    "stars": 689,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -5501,7 +6181,7 @@
                     "open_issues": 4,
                     "owner": "Peregrine123",
                     "repo": "ROPD_official",
-                    "stars": 88,
+                    "stars": 89,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -5578,6 +6258,27 @@
                     ]
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation Arxiv 2026 [Paper]",
+                  "description": "LiXin97/DN-MOPD",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation (DN-MOPD)",
+                    "homepage": "https://lixin.ai/DN-MOPD/",
+                    "id": 1392482274,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-17T07:11:09Z",
+                    "open_issues": 1,
+                    "owner": "LiXin97",
+                    "repo": "DN-MOPD",
+                    "stars": 52,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
                 },
                 {
                   "node_type": "item",
@@ -5686,6 +6387,267 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall Arxiv 2026 [Paper]",
+                  "description": "facebookresearch/midtraining-distillation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code for our paper: \"Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall\"",
+                    "homepage": "https://arxiv.org/abs/2609.01532",
+                    "id": 1349862287,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-10T04:03:18Z",
+                    "open_issues": 2,
+                    "owner": "facebookresearch",
+                    "repo": "midtraining-distillation",
+                    "stars": 14,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models Arxiv 2026 [Paper]",
+                  "description": "NEUIR/SCOPED",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1419287625,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-20T05:18:11Z",
+                    "open_issues": 0,
+                    "owner": "NEUIR",
+                    "repo": "SCOPED",
+                    "stars": 11,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation Arxiv 2026 [Paper]",
+                  "description": "xixixixixxxx/RIDE",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1392805132,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-09-28T13:42:05Z",
+                    "open_issues": 1,
+                    "owner": "xixixixixxxx",
+                    "repo": "RIDE",
+                    "stars": 8,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Do We Really Need KL Divergence for On-Policy Distillation of Large Language Models? Arxiv 2026 [Paper]",
+                  "description": "LeapLabTHU/KL-Free-OPD",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1390961740,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-09-27T17:21:55Z",
+                    "open_issues": 0,
+                    "owner": "LeapLabTHU",
+                    "repo": "KL-Free-OPD",
+                    "stars": 7,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "d-OPD: Future-Aware On-Policy Distillation for Block Diffusion Language Models Arxiv 2026 [Paper]",
+                  "description": "mit-han-lab/d-OPD",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1392165463,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-28T08:32:05Z",
+                    "open_issues": 0,
+                    "owner": "mit-han-lab",
+                    "repo": "d-OPD",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution Arxiv 2026 [Paper]",
+                  "description": "ArminAzizi98/OPPD",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1370194316,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-09-14T18:07:14Z",
+                    "open_issues": 1,
+                    "owner": "ArminAzizi98",
+                    "repo": "OPPD",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "WASD: Wasserstein-based Knowledge Distillation for Large Language Models NeurIPS 2026 [Paper]",
+                  "description": "aailab-kaist/WASD",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official implementation for Wasserstein-based Knowledge Distillation (WASD) in NeurIPS 2026.",
+                    "homepage": null,
+                    "id": 1397256754,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-08T23:52:47Z",
+                    "open_issues": 0,
+                    "owner": "aailab-kaist",
+                    "repo": "WASD",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs Arxiv 2026 [Paper]",
+                  "description": "hexixiang/MT-SDPO",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs",
+                    "homepage": "https://arxiv.org/abs/2609.02548",
+                    "id": 1354753990,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-13T14:54:42Z",
+                    "open_issues": 1,
+                    "owner": "hexixiang",
+                    "repo": "MT-SDPO",
+                    "stars": 4,
+                    "topics": [
+                      "knowledge-distillation",
+                      "llm",
+                      "multi-domain",
+                      "multi-teacher",
+                      "on-policy-distillation",
+                      "reinforcement-learning",
+                      "sciknoweval",
+                      "verl"
+                    ]
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Revisiting On-policy Adversarial Black-Box Distillation: Calibrating Groupwise Reward Geometry for Effective Advantage Construction NeurIPS 2026 [Paper]",
+                  "description": "2018cx/GRGC",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Pytorch Implementation of \"Revisiting On-policy Adversarial Black-Box Distillation: Calibrating Groupwise Reward Geometry for Effective Advantage Construction\", NeurIPS 2026",
+                    "homepage": null,
+                    "id": 1395217306,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-22T11:37:14Z",
+                    "open_issues": 0,
+                    "owner": "2018cx",
+                    "repo": "GRGC",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "OPDArena: Understanding Learning and Forgetting in On-Policy Distillation Arxiv 2026 [Paper]",
+                  "description": "StellarCurtain/OPDArena",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "OPDArena: training and evaluation for learning and forgetting in on-policy distillation",
+                    "homepage": null,
+                    "id": 1424993980,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-19T01:50:27Z",
+                    "open_issues": 0,
+                    "owner": "StellarCurtain",
+                    "repo": "OPDArena",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "An RL View of OPD: Least Square Policy Distillation for Sample-Efficient LLM Reasoning Arxiv 2026 [Paper]",
+                  "description": "UNCSciML/LSPD",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Least Square Policy Distillation for Sample-Efficient LLM Reasoning",
+                    "homepage": null,
+                    "id": 1388706019,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-29T19:03:50Z",
+                    "open_issues": 0,
+                    "owner": "UNCSciML",
+                    "repo": "LSPD",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Facts Don't Speak Louder than Words: The Behavioral Essence of Long-CoT Distillation NeurIPS 2026 [Paper]",
+                  "description": "yuyongcan/Long-CoT-Distillation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1414267930,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-11T12:23:32Z",
+                    "open_issues": 0,
+                    "owner": "yuyongcan",
+                    "repo": "Long-CoT-Distillation",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Answer-Conditioned Chains of Thought Degrade Verifiable-Reasoning Distillation in Large Language Models Arxiv 2026 [Paper]",
                   "description": "js-lee-AI/answer-leakage",
                   "children": [],
@@ -5711,6 +6673,27 @@
                     ]
                   },
                   "first_seen": "2026-09-24T23:40:30.024Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "DreamingGoose: Staged Distillation from Autoregressive Transformers to Bidirectional Recurrent Diffusion Language Models Arxiv 2026 [Paper]",
+                  "description": "JIBSIL/dualgoose",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1357031434,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-28T03:49:05Z",
+                    "open_issues": 0,
+                    "owner": "JIBSIL",
+                    "repo": "dualgoose",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
                 },
                 {
                   "node_type": "item",
@@ -5753,11 +6736,116 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "REVO: Rollout-Efficient Off-Policy Distillation via Variance-Guided Reuse Arxiv 2026 [Paper]",
+                  "description": "UNCSciML/REVO",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1393430603,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-09-29T04:40:05Z",
+                    "open_issues": 0,
+                    "owner": "UNCSciML",
+                    "repo": "REVO",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "KVE-KD: Key Visual Evidence-Guided Knowledge Distillation for Vision-Language Models Arxiv 2026 [Paper]",
+                  "description": "zhangjianbin07/KVE-KD",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official implementation of KVE-KD: Key Visual Evidence-Guided Knowledge Distillation for Vision-Language Models.",
+                    "homepage": null,
+                    "id": 1310567275,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-08-08T10:07:17Z",
+                    "open_issues": 0,
+                    "owner": "zhangjianbin07",
+                    "repo": "KVE-KD",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SAPD: Step-Aligned Privileged Distillation Arxiv 2026 [Paper]",
+                  "description": "Miaow-Lab/SAPD",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[arXiv] \"SAPD: Step-Aligned Privileged Distillation\"",
+                    "homepage": null,
+                    "id": 1408459317,
+                    "language": null,
+                    "license": "MIT",
+                    "last_commit": "2026-10-07T08:08:03Z",
+                    "open_issues": 0,
+                    "owner": "Miaow-Lab",
+                    "repo": "SAPD",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Why On-Policy Distillation Sometimes Fails: Vanishing Learning Signals Arxiv 2026 [Paper]",
+                  "description": "leizhao7/opd-learning-signals",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code and reproducibility artifacts for Why On-Policy Distillation Sometimes Fails: Vanishing Learning Signals",
+                    "homepage": "https://leizhao7.github.io/opd-learning-signals/",
+                    "id": 1408569176,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-26T18:58:10Z",
+                    "open_issues": 0,
+                    "owner": "leizhao7",
+                    "repo": "opd-learning-signals",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Do As I Do, Not As I Say: On-Policy Distillation Inherits the Teacher in Vision-Language Models Arxiv 2026 [Paper]",
+                  "description": "ffy208/opd-inherits-teacher-vlm",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1388443655,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-26T03:31:57Z",
+                    "open_issues": 0,
+                    "owner": "ffy208",
+                    "repo": "opd-inherits-teacher-vlm",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
                 }
               ],
               "description": null,
               "node_type": "group",
-              "title": "2026 &nbsp;·&nbsp; 30 papers"
+              "title": "2026 &nbsp;·&nbsp; 56 papers"
             },
             {
               "children": [
@@ -5906,7 +6994,7 @@
                     "open_issues": 0,
                     "owner": "fanqiwan",
                     "repo": "FuseAI",
-                    "stars": 602,
+                    "stars": 601,
                     "topics": [
                       "large-language-models",
                       "machine-learning",
@@ -6072,7 +7160,7 @@
                     "open_issues": 776,
                     "owner": "nomic-ai",
                     "repo": "gpt4all",
-                    "stars": 77357,
+                    "stars": 77355,
                     "topics": [
                       "ai-chat",
                       "llm-inference"
@@ -6289,6 +7377,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "GACC-Bench: Benchmarking Goal-Adaptive Context Compression Ability across Large Language Models Arxiv 2026 [Paper]",
+                  "description": "weiting24/GACC-Bench",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1420782996,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-19T08:06:58Z",
+                    "open_issues": 1,
+                    "owner": "weiting24",
+                    "repo": "GACC-Bench",
+                    "stars": 77,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Structured Distillation for Personalized Agent Memory: 11x Token Reduction with Retrieval Preservation Arxiv 2026 [Paper]",
                   "description": "Process-Point-Technologies-Corporation/searchat",
                   "children": [],
@@ -6331,6 +7440,48 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "LatentPress: Context Compression Beyond Text and Vision Arxiv 2026 [Paper]",
+                  "description": "HJSang/LatentPress",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "LatentPress: Context Compression Beyond Text and Vision (arXiv:2609.01507)",
+                    "homepage": null,
+                    "id": 1355399764,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-09-03T01:47:34Z",
+                    "open_issues": 0,
+                    "owner": "HJSang",
+                    "repo": "LatentPress",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "FocusVTC: Efficient and High-Performance Visual Text Compression with Adaptive Resolution Arxiv 2026 [Paper]",
+                  "description": "fangzhi-zhong/FoucsVTC",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1365456633,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-09-30T12:29:33Z",
+                    "open_issues": 0,
+                    "owner": "fangzhi-zhong",
+                    "repo": "FoucsVTC",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "AGORA: Adapter-Grounded Observation-Action Retention for Inference-Free Prompt Compression in LLM Agents Arxiv 2026 [Paper]",
                   "description": "ranranrannervous/agoracompression",
                   "children": [],
@@ -6349,11 +7500,74 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "zip2zip++: Towards Inference-Time Token Compression with Minimal Quality Loss Arxiv 2026 [Paper]",
+                  "description": "epfl-dlab/zip2zip-plus-plus",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1184228521,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-02T21:38:11Z",
+                    "open_issues": 0,
+                    "owner": "epfl-dlab",
+                    "repo": "zip2zip-plus-plus",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Highlight-Then-Summarize: Learning to Compress Evidence for Long-Context Understanding Arxiv 2026 [Paper]",
+                  "description": "X-Luffy/Highlight-Then-Summarize",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "专注于长文的思维范式",
+                    "homepage": null,
+                    "id": 1291057743,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-25T13:37:54Z",
+                    "open_issues": 0,
+                    "owner": "X-Luffy",
+                    "repo": "Highlight-Then-Summarize",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Prune the Summary, Not the History: Source-Judged Compaction for Long-Horizon Agents Arxiv 2026 [Paper]",
+                  "description": "GuanghuiMin/sjc",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code for paper \"Prune the Summary, Not the History: Source-Judged Compaction for Long-Horizon Agents\"",
+                    "homepage": null,
+                    "id": 1414725755,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-11T20:30:02Z",
+                    "open_issues": 0,
+                    "owner": "GuanghuiMin",
+                    "repo": "sjc",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
                 }
               ],
               "description": null,
               "node_type": "group",
-              "title": "2026 &nbsp;·&nbsp; 7 papers"
+              "title": "2026 &nbsp;·&nbsp; 13 papers"
             },
             {
               "children": [
@@ -6405,7 +7619,7 @@
                     "open_issues": 1,
                     "owner": "lx-Meteors",
                     "repo": "SAC",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -6475,7 +7689,7 @@
                     "open_issues": 125,
                     "owner": "microsoft",
                     "repo": "LLMLingua",
-                    "stars": 6774,
+                    "stars": 6776,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -6654,7 +7868,7 @@
                     "open_issues": 125,
                     "owner": "microsoft",
                     "repo": "LLMLingua",
-                    "stars": 6774,
+                    "stars": 6776,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -6675,7 +7889,7 @@
                     "open_issues": 125,
                     "owner": "microsoft",
                     "repo": "LLMLingua",
-                    "stars": 6774,
+                    "stars": 6776,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -6763,7 +7977,7 @@
                     "open_issues": 4,
                     "owner": "carriex",
                     "repo": "recomp",
-                    "stars": 150,
+                    "stars": 151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -6907,10 +8121,31 @@
                     "open_issues": 8,
                     "owner": "WeianMao",
                     "repo": "triattention",
-                    "stars": 864,
+                    "stars": 865,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning Arxiv 2026 [Paper]",
+                  "description": "SalesforceAIResearch/Random-Attention",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code for the paper \"Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning\" https://arxiv.org/abs/2609.03430",
+                    "homepage": "https://arthur-heng.github.io/Random-Attention-page/",
+                    "id": 1347856439,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-04T01:34:07Z",
+                    "open_issues": 1,
+                    "owner": "SalesforceAIResearch",
+                    "repo": "Random-Attention",
+                    "stars": 73,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
                 },
                 {
                   "node_type": "item",
@@ -6935,6 +8170,27 @@
                     ]
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MultiAlloc: Budget-Aware Precision Allocation for KV Cache Quantization Arxiv 2026 [Paper]",
+                  "description": "RL-MIND/MultiAlloc",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[arXiv 2026] MultiAlloc: Profiling-Guided Multi-Granularity Memory Allocation for KV cache Quantization.",
+                    "homepage": null,
+                    "id": 1292554005,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-08-01T01:13:35Z",
+                    "open_issues": 0,
+                    "owner": "RL-MIND",
+                    "repo": "MultiAlloc",
+                    "stars": 17,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
                 },
                 {
                   "node_type": "item",
@@ -7108,6 +8364,48 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "OmniKVQuant: KV Cache Quantization for Omni-LLMs Arxiv 2026 [Paper]",
+                  "description": "kaistmm/OmniKVQuant",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "OmniKVQuant: KV Cache Quantization for Omni-LLMs",
+                    "homepage": null,
+                    "id": 1363642157,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-11T04:44:02Z",
+                    "open_issues": 1,
+                    "owner": "kaistmm",
+                    "repo": "OmniKVQuant",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Building py-kvcache: A Performance Characterization of External KV Caching for vLLM with NVMe SSDs Arxiv 2026 [Paper]",
+                  "description": "atlarge-research/py-kvcache",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "iouring based external KV cache for vLLM. Supports preloading KV cache, break-even ops gating, ARC DRAM cache.",
+                    "homepage": null,
+                    "id": 1327595241,
+                    "language": null,
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-07-26T15:38:32Z",
+                    "open_issues": 0,
+                    "owner": "atlarge-research",
+                    "repo": "py-kvcache",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "VisCache: Visual KV Cache Pruning for Efficient Vision Large Language Model Inference Arxiv 2026 [Paper]",
                   "description": "Wlklk/VisCache",
                   "children": [],
@@ -7129,6 +8427,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "PatchKV: Weight-Space Compensation of KV Cache NeurIPS 2026 [Paper]",
+                  "description": "cusasak/PatchKV",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official implementation of \"PatchKV: Weight-Space Compensation of KV Cache\" (NeurIPS 2026)",
+                    "homepage": null,
+                    "id": 1397273210,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-01T10:42:54Z",
+                    "open_issues": 0,
+                    "owner": "cusasak",
+                    "repo": "PatchKV",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "ReST-KV: Robust KV Cache Eviction with Layer-wise Output Reconstruction and Spatial-Temporal Smoothing ICLR 2026 [Paper]",
                   "description": "an-yongqi/rest-kv",
                   "children": [],
@@ -7147,6 +8466,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "OVAL: Output-Aware Local Page Bases for KV Cache Retrieval Arxiv 2026 [Paper]",
+                  "description": "Ashkan13776/oval-kv",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1385936815,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-27T23:57:06Z",
+                    "open_issues": 0,
+                    "owner": "Ashkan13776",
+                    "repo": "oval-kv",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
                 },
                 {
                   "node_type": "item",
@@ -7210,11 +8550,116 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MetaKV: Adaptive KV Cache Compression for Constrained LLM Inference Arxiv 2026 [Paper]",
+                  "description": "MichaelWang0505/MetaKV",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1351153119,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2026-08-30T06:23:24Z",
+                    "open_issues": 0,
+                    "owner": "MichaelWang0505",
+                    "repo": "MetaKV",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints Arxiv 2026 [Paper]",
+                  "description": "xishi404/KVShare-Arena",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1391319844,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-27T19:20:51Z",
+                    "open_issues": 0,
+                    "owner": "xishi404",
+                    "repo": "KVShare-Arena",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "EfficientAgent: What Makes KV Cache Offloading Work for Concurrent Agents? Arxiv 2026 [Paper]",
+                  "description": "KunmingSHAO/efficientagent_release",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1388676950,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-26T11:24:29Z",
+                    "open_issues": 0,
+                    "owner": "KunmingSHAO",
+                    "repo": "efficientagent_release",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Page-EntroKV: Hardware-Aligned, Entropy-Weighted KV-Cache Eviction under Grouped-Query Attention Arxiv 2026 [Paper]",
+                  "description": "bruce12-glitch/PageEntro-KV",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1399332116,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2026-10-02T11:36:59Z",
+                    "open_issues": 0,
+                    "owner": "bruce12-glitch",
+                    "repo": "PageEntro-KV",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "KV-Repurpose: A Testbed for Evaluating Non-Prefix KV-Cache Reuse Arxiv 2026 [Paper]",
+                  "description": "taiga333/eval-kv-repurpose",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Project for demonstrating KV-Repurpose, a new term for non-prefix-matching KV reuse.",
+                    "homepage": null,
+                    "id": 1291774302,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-21T00:28:58Z",
+                    "open_issues": 0,
+                    "owner": "taiga333",
+                    "repo": "eval-kv-repurpose",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
                 }
               ],
               "description": null,
               "node_type": "group",
-              "title": "2026 &nbsp;·&nbsp; 32 papers"
+              "title": "2026 &nbsp;·&nbsp; 51 papers"
             },
             {
               "children": [
@@ -7258,7 +8703,7 @@
                     "open_issues": 4,
                     "owner": "FastMAS",
                     "repo": "KVCOMM",
-                    "stars": 198,
+                    "stars": 199,
                     "topics": [
                       "kv-cache",
                       "multi-agent-systems",
@@ -7836,7 +9281,7 @@
                     "open_issues": 8,
                     "owner": "shadowpa0327",
                     "repo": "Palu",
-                    "stars": 165,
+                    "stars": 166,
                     "topics": [
                       "deepseek",
                       "kv-cache-compression",
@@ -8110,11 +9555,11 @@
                     "id": 740303686,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-27T00:07:09Z",
-                    "open_issues": 6235,
+                    "last_commit": "2026-10-27T23:59:38Z",
+                    "open_issues": 6250,
                     "owner": "sgl-project",
                     "repo": "sglang",
-                    "stars": 38215,
+                    "stars": 38286,
                     "topics": [
                       "attention",
                       "blackwell",
@@ -8211,6 +9656,34 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs Arxiv 2026 [Paper]",
+                  "description": "VILA-Lab/Flash-dLLM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[NeurIPS 2026] Official implementaion for Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+                    "homepage": "https://vila-lab.github.io/flash-dllm-webpage/",
+                    "id": 1332588182,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-07T03:25:00Z",
+                    "open_issues": 2,
+                    "owner": "VILA-Lab",
+                    "repo": "Flash-dLLM",
+                    "stars": 18,
+                    "topics": [
+                      "diffusion-language-models",
+                      "dllm",
+                      "io-aware-kvc",
+                      "kv-cache",
+                      "memory-efficiency",
+                      "parallel"
+                    ]
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection Arxiv 2026 [Paper]",
                   "description": "Amorfati123/SpecKV",
                   "children": [],
@@ -8292,11 +9765,74 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ITC-MoE: Importance-guided Token-aware Compression for MoE Diffusion Language Models Arxiv 2026 [Paper]",
+                  "description": "lianjunl13-sudo/ITC-MoE",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official implementation of ITC-MoE: Importance-guided Token-aware Compression for MoE Diffusion Language Models.",
+                    "homepage": null,
+                    "id": 1399457505,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-14T02:16:42Z",
+                    "open_issues": 0,
+                    "owner": "lianjunl13-sudo",
+                    "repo": "ITC-MoE",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Capability Scaling-Down Laws for LLM Compression Arxiv 2026 [Paper]",
+                  "description": "LabRAI/scaling_down_law",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The code repo for paper \"Capability Scaling-Down Laws for LLM Compression\".",
+                    "homepage": null,
+                    "id": 1400633797,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-01T19:41:10Z",
+                    "open_issues": 0,
+                    "owner": "LabRAI",
+                    "repo": "scaling_down_law",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Preserving Mathematical Reasoning in Compressed Diffusion Language Models via Trajectory-Aware Low-Rank Approximation Arxiv 2026 [Paper]",
+                  "description": "Zishan-Shao/traj-mc",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "trajectory-aware monte carlo sampling",
+                    "homepage": null,
+                    "id": 1331069595,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-16T12:52:26Z",
+                    "open_issues": 0,
+                    "owner": "Zishan-Shao",
+                    "repo": "traj-mc",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
                 }
               ],
               "description": null,
               "node_type": "group",
-              "title": "2026 &nbsp;·&nbsp; 13 papers"
+              "title": "2026 &nbsp;·&nbsp; 19 papers"
             },
             {
               "children": [
@@ -8577,7 +10113,7 @@
                     "open_issues": 215,
                     "owner": "thu-ml",
                     "repo": "SageAttention",
-                    "stars": 3978,
+                    "stars": 3980,
                     "topics": [
                       "attention",
                       "cuda",
@@ -8611,7 +10147,7 @@
                     "open_issues": 57,
                     "owner": "FasterDecoding",
                     "repo": "Medusa",
-                    "stars": 2775,
+                    "stars": 2774,
                     "topics": [
                       "llm",
                       "llm-inference"
@@ -8635,7 +10171,7 @@
                     "open_issues": 11,
                     "owner": "facebookresearch",
                     "repo": "MobileLLM",
-                    "stars": 1468,
+                    "stars": 1469,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -8656,7 +10192,7 @@
                     "open_issues": 15,
                     "owner": "mit-han-lab",
                     "repo": "duo-attention",
-                    "stars": 544,
+                    "stars": 545,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -8987,10 +10523,10 @@
                     "language": "C++",
                     "license": "MIT",
                     "last_commit": "2026-05-11T06:48:06Z",
-                    "open_issues": 132,
+                    "open_issues": 133,
                     "owner": "Tiiny-AI",
                     "repo": "PowerInfer",
-                    "stars": 9849,
+                    "stars": 9851,
                     "topics": [
                       "large-language-models",
                       "llama",
@@ -9017,7 +10553,7 @@
                     "open_issues": 50,
                     "owner": "mit-han-lab",
                     "repo": "streaming-llm",
-                    "stars": 7274,
+                    "stars": 7272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -9038,7 +10574,7 @@
                     "open_issues": 53,
                     "owner": "JIA-Lab-research",
                     "repo": "LongLoRA",
-                    "stars": 2687,
+                    "stars": 2686,
                     "topics": [
                       "fine-tuning-llm",
                       "large-language-models",
@@ -9152,7 +10688,7 @@
                     "id": 494232964,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-26T18:12:04Z",
+                    "last_commit": "2026-10-27T19:58:43Z",
                     "open_issues": 1383,
                     "owner": "Dao-AILab",
                     "repo": "flash-attention",
@@ -9191,25 +10727,24 @@
                 "id": 658928958,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-26T23:40:36Z",
-                "open_issues": 4445,
+                "last_commit": "2026-10-27T22:01:52Z",
+                "open_issues": 4469,
                 "owner": "ollama",
                 "repo": "ollama",
-                "stars": 184895,
+                "stars": 185025,
                 "topics": [
                   "deepseek",
                   "gemma",
-                  "gemma3",
                   "glm",
                   "go",
                   "golang",
                   "gpt-oss",
                   "llama",
-                  "llama3",
                   "llm",
                   "llms",
                   "minimax",
                   "mistral",
+                  "muse",
                   "ollama",
                   "qwen"
                 ]
@@ -9228,11 +10763,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-26T23:57:03Z",
-                "open_issues": 2594,
+                "last_commit": "2026-10-27T23:58:41Z",
+                "open_issues": 2593,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 132459,
+                "stars": 132563,
                 "topics": [
                   "ggml"
                 ]
@@ -9251,11 +10786,11 @@
                 "id": 599547518,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T23:59:05Z",
-                "open_issues": 9507,
+                "last_commit": "2026-10-28T00:00:24Z",
+                "open_issues": 9612,
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 95624,
+                "stars": 95710,
                 "topics": [
                   "amd",
                   "blackwell",
@@ -9293,11 +10828,11 @@
                 "id": 652712035,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T06:26:03Z",
-                "open_issues": 150,
+                "last_commit": "2026-10-27T06:21:04Z",
+                "open_issues": 149,
                 "owner": "lyogavin",
                 "repo": "airllm",
-                "stars": 40794,
+                "stars": 41000,
                 "topics": [
                   "chinese-llm",
                   "chinese-nlp",
@@ -9328,11 +10863,11 @@
                 "id": 740303686,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T00:07:09Z",
-                "open_issues": 6235,
+                "last_commit": "2026-10-27T23:59:38Z",
+                "open_issues": 6250,
                 "owner": "sgl-project",
                 "repo": "sglang",
-                "stars": 38215,
+                "stars": 38286,
                 "topics": [
                   "attention",
                   "blackwell",
@@ -9372,7 +10907,7 @@
                 "open_issues": 219,
                 "owner": "mozilla-ai",
                 "repo": "llamafile",
-                "stars": 26493,
+                "stars": 26502,
                 "topics": [
                   "cross-platform",
                   "gguf",
@@ -9399,11 +10934,11 @@
                 "id": 634081686,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T07:30:49Z",
+                "last_commit": "2026-10-27T11:03:31Z",
                 "open_issues": 362,
                 "owner": "mlc-ai",
                 "repo": "mlc-llm",
-                "stars": 23276,
+                "stars": 23282,
                 "topics": [
                   "language-model",
                   "llm",
@@ -9429,7 +10964,7 @@
                 "open_issues": 191,
                 "owner": "karpathy",
                 "repo": "llama2.c",
-                "stars": 20215,
+                "stars": 20220,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -9447,10 +10982,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T08:47:10Z",
-                "open_issues": 527,
+                "open_issues": 526,
                 "owner": "kvcache-ai",
                 "repo": "ktransformers",
-                "stars": 19638,
+                "stars": 19642,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -9471,7 +11006,7 @@
                 "open_issues": 380,
                 "owner": "ggml-org",
                 "repo": "ggml",
-                "stars": 15541,
+                "stars": 15544,
                 "topics": [
                   "machine-learning"
                 ]
@@ -9490,11 +11025,11 @@
                 "id": 679366051,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T00:03:27Z",
-                "open_issues": 1812,
+                "last_commit": "2026-10-27T23:50:58Z",
+                "open_issues": 1830,
                 "owner": "NVIDIA",
                 "repo": "TensorRT-LLM",
-                "stars": 14956,
+                "stars": 14961,
                 "topics": [
                   "blackwell",
                   "cuda",
@@ -9518,10 +11053,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-05-11T06:48:06Z",
-                "open_issues": 132,
+                "open_issues": 133,
                 "owner": "Tiiny-AI",
                 "repo": "PowerInfer",
-                "stars": 9849,
+                "stars": 9851,
                 "topics": [
                   "large-language-models",
                   "llama",
@@ -9577,7 +11112,7 @@
                 "open_issues": 1485,
                 "owner": "intel",
                 "repo": "ipex-llm",
-                "stars": 8844,
+                "stars": 8845,
                 "topics": [
                   "gpu",
                   "llm",
@@ -9599,11 +11134,11 @@
                 "id": 654122609,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T15:06:45Z",
-                "open_issues": 619,
+                "last_commit": "2026-10-27T03:07:12Z",
+                "open_issues": 621,
                 "owner": "InternLM",
                 "repo": "lmdeploy",
-                "stars": 8122,
+                "stars": 8121,
                 "topics": [
                   "codellama",
                   "cuda-kernels",
@@ -9632,11 +11167,11 @@
                 "id": 819733173,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T17:09:02Z",
-                "open_issues": 843,
+                "last_commit": "2026-10-27T23:55:00Z",
+                "open_issues": 860,
                 "owner": "kvcache-ai",
                 "repo": "Mooncake",
-                "stars": 6888,
+                "stars": 6900,
                 "topics": [
                   "disaggregation",
                   "inference",
@@ -9668,7 +11203,7 @@
                 "open_issues": 111,
                 "owner": "meta-pytorch",
                 "repo": "gpt-fast",
-                "stars": 6264,
+                "stars": 6266,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -9680,16 +11215,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。",
+                "description": "fastllm是后端无依赖的高性能大模型推理库，帮助您在大部分设备上高效推理大模型！",
                 "homepage": null,
                 "id": 640177564,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T17:34:08Z",
-                "open_issues": 358,
+                "last_commit": "2026-10-27T12:05:06Z",
+                "open_issues": 359,
                 "owner": "ztxz16",
                 "repo": "fastllm",
-                "stars": 5121,
+                "stars": 5122,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -9728,10 +11263,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-26T14:11:37Z",
-                "open_issues": 23,
+                "open_issues": 22,
                 "owner": "SciSharp",
                 "repo": "LLamaSharp",
-                "stars": 3819,
+                "stars": 3818,
                 "topics": [
                   "chatbot",
                   "gpt",
@@ -9761,7 +11296,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-09-30T19:06:04Z",
-                "open_issues": 65,
+                "open_issues": 64,
                 "owner": "turboderp",
                 "repo": "exllama",
                 "stars": 2945,
@@ -9906,11 +11441,11 @@
                 "id": 373674258,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T14:35:27Z",
-                "open_issues": 109,
+                "last_commit": "2026-10-27T21:28:24Z",
+                "open_issues": 108,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8533,
+                "stars": 8535,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -9933,11 +11468,11 @@
                 "id": 790916393,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T00:08:00Z",
-                "open_issues": 513,
+                "last_commit": "2026-10-27T23:51:22Z",
+                "open_issues": 517,
                 "owner": "NVIDIA",
                 "repo": "Model-Optimizer",
-                "stars": 5445,
+                "stars": 5455,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -9954,11 +11489,11 @@
                 "id": 817962136,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T23:46:16Z",
-                "open_issues": 128,
+                "last_commit": "2026-10-27T23:54:48Z",
+                "open_issues": 126,
                 "owner": "vllm-project",
                 "repo": "llm-compressor",
-                "stars": 3916,
+                "stars": 3922,
                 "topics": [
                   "compression",
                   "quantization"
@@ -9979,7 +11514,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-17T19:44:51Z",
-                "open_issues": 210,
+                "open_issues": 209,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
                 "stars": 3656,
@@ -10020,7 +11555,7 @@
                 "id": 714073518,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T10:23:54Z",
+                "last_commit": "2026-10-27T01:42:50Z",
                 "open_issues": 827,
                 "owner": "pytorch",
                 "repo": "ao",
@@ -10075,11 +11610,11 @@
                 "id": 816158613,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T21:48:40Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-27T18:02:48Z",
+                "open_issues": 5,
                 "owner": "ModelCloud",
                 "repo": "GPTQModel",
-                "stars": 1280,
+                "stars": 1281,
                 "topics": [
                   "gptq",
                   "optimum",
@@ -10312,11 +11847,11 @@
                 "id": 281528773,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T13:10:39Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-27T14:27:43Z",
+                "open_issues": 31,
                 "owner": "intel",
                 "repo": "neural-compressor",
-                "stars": 2727,
+                "stars": 2729,
                 "topics": [
                   "auto-tuning",
                   "awq",
@@ -10355,7 +11890,7 @@
                 "open_issues": 1,
                 "owner": "neuralmagic",
                 "repo": "sparseml",
-                "stars": 2145,
+                "stars": 2144,
                 "topics": [
                   "automl",
                   "computer-vision-algorithms",
@@ -10531,11 +12066,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T22:53:47Z",
-                "open_issues": 910,
+                "last_commit": "2026-10-27T23:15:48Z",
+                "open_issues": 914,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12176,
+                "stars": 12186,
                 "topics": [
                   "amd",
                   "cuda",
@@ -10563,8 +12098,8 @@
                 "id": 884452470,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T09:27:03Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-27T12:56:37Z",
+                "open_issues": 12,
                 "owner": "NVIDIA",
                 "repo": "kvpress",
                 "stars": 1239,
@@ -10598,10 +12133,52 @@
                 "open_issues": 99,
                 "owner": "microsoft",
                 "repo": "MInference",
-                "stars": 1230,
+                "stars": 1229,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LLMSlim: Query-aware context compression for RAG and agents with no LLM call. It keeps the units (chunks, chat turns, log lines) that answer the query under a hard token budget, in their original order, scored lexically or with an optional 22M cross-encoder; also ships an MCP server for long-term agent memory [Code]",
+              "description": "[PyPI]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Long-term memory for AI agents with no LLM call: an MCP server and Claude Code plugin, plus local-first context compression for LLM apps.",
+                "homepage": "https://www.llmslim.app",
+                "id": 1270509963,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-27T17:41:18Z",
+                "open_issues": 4,
+                "owner": "Thanatos9404",
+                "repo": "llmslim",
+                "stars": 23,
+                "topics": [
+                  "agent-memory",
+                  "ai-agents",
+                  "ai-memory",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "context-compression",
+                  "cost-optimization",
+                  "gemini-cli-extension",
+                  "llm",
+                  "llm-agents",
+                  "llmlingua",
+                  "long-term-memory",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "prompt-compression",
+                  "prompt-engineering",
+                  "python",
+                  "rag",
+                  "token-optimization"
+                ]
+              },
+              "first_seen": "2026-10-28T00:08:52.754Z"
             },
             {
               "node_type": "item",
@@ -10753,11 +12330,11 @@
                 "id": 725205304,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T00:08:05Z",
-                "open_issues": 381,
+                "last_commit": "2026-10-28T00:06:22Z",
+                "open_issues": 401,
                 "owner": "unslothai",
                 "repo": "unsloth",
-                "stars": 78600,
+                "stars": 78641,
                 "topics": [
                   "agent",
                   "ai",
@@ -10796,10 +12373,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T07:23:24Z",
-                "open_issues": 1206,
+                "open_issues": 1209,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75740,
+                "stars": 75748,
                 "topics": [
                   "agent",
                   "ai",
@@ -10837,11 +12414,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T00:01:01Z",
-                "open_issues": 1742,
+                "last_commit": "2026-10-28T00:03:27Z",
+                "open_issues": 1799,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18275,
+                "stars": 18281,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -10866,7 +12443,7 @@
                 "open_issues": 322,
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13731,
+                "stars": 13734,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -11012,7 +12589,7 @@
                 "open_issues": 8,
                 "owner": "RahulSChand",
                 "repo": "gpu_poor",
-                "stars": 1403,
+                "stars": 1402,
                 "topics": [
                   "ggml",
                   "gpu",
@@ -11156,11 +12733,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T23:08:48Z",
-                "open_issues": 678,
+                "last_commit": "2026-10-27T23:48:23Z",
+                "open_issues": 688,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 148521,
+                "stars": 148570,
                 "topics": [
                   "agents",
                   "ai",
@@ -11199,7 +12776,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-06-16T00:32:35Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "AlexBuz",
                 "repo": "llama-zip",
                 "stars": 322,
@@ -11286,7 +12863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T00:08:22.894Z",
+    "last_updated": "2026-10-28T00:08:52.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM compression research papers and tools.",
@@ -11294,14 +12871,14 @@
       "id": 647138126,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-21T04:17:44Z",
-      "open_issues": 107,
+      "last_commit": "2026-10-27T06:05:37Z",
+      "open_issues": 0,
       "owner": "HuangOwen",
       "repo": "Awesome-LLM-Compression",
       "stars": 1888,
       "topics": []
     },
-    "original_repository_sha": "14725e4dea86d34e9fea1b0a57193bb42acd24d6",
+    "original_repository_sha": "dfdb484f5cc8e03d81e02e147429a3778c99c2d4",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Compression",
     "enhanced_repository_description": null,
     "title": "Awesome LLM Compression with stars"
