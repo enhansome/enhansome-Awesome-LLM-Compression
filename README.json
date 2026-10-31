@@ -69,8 +69,8 @@
                     "id": 976083816,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-10-27T06:35:09Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-30T06:44:17Z",
+                    "open_issues": 1,
                     "owner": "sihyeong",
                     "repo": "Awesome-LLM-Inference-Engine",
                     "stars": 250,
@@ -233,11 +233,11 @@
                     "id": 629520282,
                     "language": null,
                     "license": null,
-                    "last_commit": "2025-06-23T01:57:02Z",
+                    "last_commit": "2026-10-30T20:38:14Z",
                     "open_issues": 2,
                     "owner": "AIoT-MLSys-Lab",
                     "repo": "Efficient-LLMs-Survey",
-                    "stars": 1258,
+                    "stars": 1259,
                     "topics": [
                       "efficient-deep-learning",
                       "generative-ai",
@@ -407,7 +407,7 @@
                     "open_issues": 1,
                     "owner": "IST-DASLab",
                     "repo": "SLQ",
-                    "stars": 51,
+                    "stars": 54,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -488,7 +488,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-05-14T18:21:48Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "dibbla",
                     "repo": "Quantized-Evolution-Strategies",
                     "stars": 21,
@@ -806,7 +806,7 @@
                     "id": 1425428158,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T18:09:48Z",
+                    "last_commit": "2026-10-30T04:45:04Z",
                     "open_issues": 6,
                     "owner": "Genrius-AI",
                     "repo": "pingala8-llm",
@@ -859,6 +859,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "AlignQuant: Tile-Aligned Mixed-Precision Quantization for Efficient LLM Generation Arxiv 2026 [Paper]",
+                  "description": "HanzhiZhang-Ulrica/AlignQuant",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1384102595,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-09-25T04:11:21Z",
+                    "open_issues": 0,
+                    "owner": "HanzhiZhang-Ulrica",
+                    "repo": "AlignQuant",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T00:08:52.754Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "OSFP4: Joint Optimization of Diagonal Smoothing and Block Scales for NVFP4 Quantization Arxiv 2026 [Paper]",
                   "description": "neriahbd/OSFP4",
                   "children": [],
@@ -874,27 +895,6 @@
                     "owner": "neriahbd",
                     "repo": "OSFP4",
                     "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-28T00:08:52.754Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "AlignQuant: Tile-Aligned Mixed-Precision Quantization for Efficient LLM Generation Arxiv 2026 [Paper]",
-                  "description": "HanzhiZhang-Ulrica/AlignQuant",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1384102595,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-09-25T04:11:21Z",
-                    "open_issues": 0,
-                    "owner": "HanzhiZhang-Ulrica",
-                    "repo": "AlignQuant",
-                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-10-28T00:08:52.754Z"
@@ -1121,8 +1121,8 @@
                     "id": 738776129,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T10:43:02Z",
-                    "open_issues": 109,
+                    "last_commit": "2026-10-30T08:54:07Z",
+                    "open_issues": 105,
                     "owner": "intel",
                     "repo": "auto-round",
                     "stars": 1694,
@@ -1402,7 +1402,7 @@
                     "open_issues": 2,
                     "owner": "XIANGLONGYAN",
                     "repo": "PBS2P",
-                    "stars": 13,
+                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -1579,11 +1579,11 @@
                     "id": 494232964,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-29T23:03:11Z",
+                    "last_commit": "2026-10-31T00:03:04Z",
                     "open_issues": 1394,
                     "owner": "Dao-AILab",
                     "repo": "flash-attention",
-                    "stars": 25223,
+                    "stars": 25226,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -1604,7 +1604,7 @@
                     "open_issues": 215,
                     "owner": "thu-ml",
                     "repo": "SageAttention",
-                    "stars": 3983,
+                    "stars": 3984,
                     "topics": [
                       "attention",
                       "cuda",
@@ -1638,7 +1638,7 @@
                     "open_issues": 15,
                     "owner": "Vahe1994",
                     "repo": "AQLM",
-                    "stars": 1331,
+                    "stars": 1332,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -1659,7 +1659,7 @@
                     "open_issues": 37,
                     "owner": "IST-DASLab",
                     "repo": "marlin",
-                    "stars": 1172,
+                    "stars": 1173,
                     "topics": [
                       "4bit",
                       "kernel",
@@ -1685,7 +1685,7 @@
                     "open_issues": 47,
                     "owner": "microsoft",
                     "repo": "T-MAC",
-                    "stars": 1000,
+                    "stars": 1002,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -2011,7 +2011,7 @@
                     "open_issues": 6,
                     "owner": "Cornell-RelaxML",
                     "repo": "qtip",
-                    "stars": 197,
+                    "stars": 198,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -2226,7 +2226,7 @@
                     "open_issues": 0,
                     "owner": "sebulo",
                     "repo": "LoQT",
-                    "stars": 81,
+                    "stars": 82,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -2791,11 +2791,11 @@
                     "id": 235860204,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T00:14:35Z",
-                    "open_issues": 1582,
+                    "last_commit": "2026-10-30T22:14:38Z",
+                    "open_issues": 1586,
                     "owner": "deepspeedai",
                     "repo": "DeepSpeed",
-                    "stars": 43270,
+                    "stars": 43277,
                     "topics": [
                       "billion-parameters",
                       "compression",
@@ -2826,11 +2826,11 @@
                     "id": 235860204,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T00:14:35Z",
-                    "open_issues": 1582,
+                    "last_commit": "2026-10-30T22:14:38Z",
+                    "open_issues": 1586,
                     "owner": "deepspeedai",
                     "repo": "DeepSpeed",
-                    "stars": 43270,
+                    "stars": 43277,
                     "topics": [
                       "billion-parameters",
                       "compression",
@@ -2861,11 +2861,11 @@
                     "id": 235860204,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T00:14:35Z",
-                    "open_issues": 1582,
+                    "last_commit": "2026-10-30T22:14:38Z",
+                    "open_issues": 1586,
                     "owner": "deepspeedai",
                     "repo": "DeepSpeed",
-                    "stars": 43270,
+                    "stars": 43277,
                     "topics": [
                       "billion-parameters",
                       "compression",
@@ -2900,7 +2900,7 @@
                     "open_issues": 207,
                     "owner": "artidoro",
                     "repo": "qlora",
-                    "stars": 11060,
+                    "stars": 11061,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -2921,7 +2921,7 @@
                     "open_issues": 209,
                     "owner": "mit-han-lab",
                     "repo": "llm-awq",
-                    "stars": 3657,
+                    "stars": 3659,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -2938,8 +2938,8 @@
                     "id": 281528773,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T08:18:20Z",
-                    "open_issues": 30,
+                    "last_commit": "2026-10-30T13:04:01Z",
+                    "open_issues": 31,
                     "owner": "intel",
                     "repo": "neural-compressor",
                     "stars": 2729,
@@ -2977,8 +2977,8 @@
                     "id": 281528773,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T08:18:20Z",
-                    "open_issues": 30,
+                    "last_commit": "2026-10-30T13:04:01Z",
+                    "open_issues": 31,
                     "owner": "intel",
                     "repo": "neural-compressor",
                     "stars": 2729,
@@ -3054,8 +3054,8 @@
                     "id": 738776129,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T10:43:02Z",
-                    "open_issues": 109,
+                    "last_commit": "2026-10-30T08:54:07Z",
+                    "open_issues": 105,
                     "owner": "intel",
                     "repo": "auto-round",
                     "stars": 1694,
@@ -3622,11 +3622,11 @@
                     "id": 235860204,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T00:14:35Z",
-                    "open_issues": 1582,
+                    "last_commit": "2026-10-30T22:14:38Z",
+                    "open_issues": 1586,
                     "owner": "deepspeedai",
                     "repo": "DeepSpeed",
-                    "stars": 43270,
+                    "stars": 43277,
                     "topics": [
                       "billion-parameters",
                       "compression",
@@ -3658,10 +3658,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-27T21:28:24Z",
-                    "open_issues": 111,
+                    "open_issues": 112,
                     "owner": "bitsandbytes-foundation",
                     "repo": "bitsandbytes",
-                    "stars": 8536,
+                    "stars": 8535,
                     "topics": [
                       "llm",
                       "machine-learning",
@@ -3688,7 +3688,7 @@
                     "open_issues": 27,
                     "owner": "IST-DASLab",
                     "repo": "gptq",
-                    "stars": 2388,
+                    "stars": 2389,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -3765,7 +3765,7 @@
                     "open_issues": 31,
                     "owner": "Tencent",
                     "repo": "hpc-ops",
-                    "stars": 1185,
+                    "stars": 1186,
                     "topics": []
                   },
                   "first_seen": "2026-10-28T00:08:52.754Z"
@@ -3850,7 +3850,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-27T13:28:32Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "CURRENTF",
                     "repo": "SparseEngine",
                     "stars": 106,
@@ -3874,7 +3874,7 @@
                     "open_issues": 0,
                     "owner": "token-gate-llms",
                     "repo": "TokenGate",
-                    "stars": 102,
+                    "stars": 106,
                     "topics": []
                   },
                   "first_seen": "2026-10-28T00:08:52.754Z"
@@ -5829,7 +5829,7 @@
                     "open_issues": 7,
                     "owner": "microsoft",
                     "repo": "Moonlit",
-                    "stars": 88,
+                    "stars": 89,
                     "topics": [
                       "inference-efficiency",
                       "model-compression",
@@ -5986,7 +5986,7 @@
                     "open_issues": 0,
                     "owner": "casszhao",
                     "repo": "PruneHall",
-                    "stars": 16,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -6112,7 +6112,7 @@
                     "open_issues": 1,
                     "owner": "Ahren09",
                     "repo": "UniSD",
-                    "stars": 875,
+                    "stars": 879,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -6133,7 +6133,7 @@
                     "open_issues": 9,
                     "owner": "siyan-zhao",
                     "repo": "OPSD",
-                    "stars": 695,
+                    "stars": 696,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -6599,7 +6599,7 @@
                     "open_issues": 0,
                     "owner": "2018cx",
                     "repo": "GRGC",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-10-28T00:08:52.754Z"
@@ -6812,7 +6812,7 @@
                     "id": 1408569176,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-26T18:58:10Z",
+                    "last_commit": "2026-10-30T16:53:11Z",
                     "open_issues": 0,
                     "owner": "leizhao7",
                     "repo": "opd-learning-signals",
@@ -7019,7 +7019,7 @@
                     "open_issues": 3,
                     "owner": "NVlabs",
                     "repo": "Minitron",
-                    "stars": 386,
+                    "stars": 385,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -7160,7 +7160,7 @@
                     "open_issues": 776,
                     "owner": "nomic-ai",
                     "repo": "gpt4all",
-                    "stars": 77349,
+                    "stars": 77345,
                     "topics": [
                       "ai-chat",
                       "llm-inference"
@@ -7265,7 +7265,7 @@
                     "open_issues": 3,
                     "owner": "timinar",
                     "repo": "BabyLlama",
-                    "stars": 83,
+                    "stars": 84,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -7391,7 +7391,7 @@
                     "open_issues": 1,
                     "owner": "weiting24",
                     "repo": "GACC-Bench",
-                    "stars": 77,
+                    "stars": 78,
                     "topics": []
                   },
                   "first_seen": "2026-10-28T00:08:52.754Z"
@@ -7454,7 +7454,7 @@
                     "open_issues": 0,
                     "owner": "HJSang",
                     "repo": "LatentPress",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-10-28T00:08:52.754Z"
@@ -7689,7 +7689,7 @@
                     "open_issues": 125,
                     "owner": "microsoft",
                     "repo": "LLMLingua",
-                    "stars": 6783,
+                    "stars": 6786,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -7868,7 +7868,7 @@
                     "open_issues": 125,
                     "owner": "microsoft",
                     "repo": "LLMLingua",
-                    "stars": 6783,
+                    "stars": 6786,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -7889,7 +7889,7 @@
                     "open_issues": 125,
                     "owner": "microsoft",
                     "repo": "LLMLingua",
-                    "stars": 6783,
+                    "stars": 6786,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -8479,7 +8479,7 @@
                     "id": 1385936815,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-29T15:13:50Z",
+                    "last_commit": "2026-10-30T19:53:17Z",
                     "open_issues": 0,
                     "owner": "Ashkan13776",
                     "repo": "oval-kv",
@@ -9199,7 +9199,7 @@
                     "open_issues": 137,
                     "owner": "PaddlePaddle",
                     "repo": "Research",
-                    "stars": 1771,
+                    "stars": 1774,
                     "topics": [
                       "computer-vision",
                       "data-mining",
@@ -9555,11 +9555,11 @@
                     "id": 740303686,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T00:28:56Z",
-                    "open_issues": 6310,
+                    "last_commit": "2026-10-31T00:08:35Z",
+                    "open_issues": 6327,
                     "owner": "sgl-project",
                     "repo": "sglang",
-                    "stars": 38365,
+                    "stars": 38310,
                     "topics": [
                       "attention",
                       "blackwell",
@@ -10113,7 +10113,7 @@
                     "open_issues": 215,
                     "owner": "thu-ml",
                     "repo": "SageAttention",
-                    "stars": 3983,
+                    "stars": 3984,
                     "topics": [
                       "attention",
                       "cuda",
@@ -10168,7 +10168,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-04-30T00:14:05Z",
-                    "open_issues": 11,
+                    "open_issues": 3,
                     "owner": "facebookresearch",
                     "repo": "MobileLLM",
                     "stars": 1471,
@@ -10526,7 +10526,7 @@
                     "open_issues": 134,
                     "owner": "Tiiny-AI",
                     "repo": "PowerInfer",
-                    "stars": 9855,
+                    "stars": 9857,
                     "topics": [
                       "large-language-models",
                       "llama",
@@ -10688,11 +10688,11 @@
                     "id": 494232964,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-29T23:03:11Z",
+                    "last_commit": "2026-10-31T00:03:04Z",
                     "open_issues": 1394,
                     "owner": "Dao-AILab",
                     "repo": "flash-attention",
-                    "stars": 25223,
+                    "stars": 25226,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:01:26.130Z"
@@ -10727,11 +10727,11 @@
                 "id": 658928958,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-29T19:05:21Z",
-                "open_issues": 4493,
+                "last_commit": "2026-10-30T21:34:59Z",
+                "open_issues": 4506,
                 "owner": "ollama",
                 "repo": "ollama",
-                "stars": 185253,
+                "stars": 185380,
                 "topics": [
                   "deepseek",
                   "gemma",
@@ -10763,11 +10763,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-30T00:27:50Z",
-                "open_issues": 2579,
+                "last_commit": "2026-10-30T22:34:18Z",
+                "open_issues": 2596,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 132776,
+                "stars": 132895,
                 "topics": [
                   "ggml"
                 ]
@@ -10786,11 +10786,11 @@
                 "id": 599547518,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T23:52:32Z",
-                "open_issues": 9621,
+                "last_commit": "2026-10-30T23:57:20Z",
+                "open_issues": 9678,
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 95866,
+                "stars": 95936,
                 "topics": [
                   "amd",
                   "blackwell",
@@ -10828,11 +10828,11 @@
                 "id": 652712035,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T06:16:04Z",
-                "open_issues": 149,
+                "last_commit": "2026-10-30T06:16:30Z",
+                "open_issues": 150,
                 "owner": "lyogavin",
                 "repo": "airllm",
-                "stars": 41243,
+                "stars": 41346,
                 "topics": [
                   "chinese-llm",
                   "chinese-nlp",
@@ -10863,11 +10863,11 @@
                 "id": 740303686,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T00:28:56Z",
-                "open_issues": 6310,
+                "last_commit": "2026-10-31T00:08:35Z",
+                "open_issues": 6327,
                 "owner": "sgl-project",
                 "repo": "sglang",
-                "stars": 38365,
+                "stars": 38310,
                 "topics": [
                   "attention",
                   "blackwell",
@@ -10904,10 +10904,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-12T00:26:41Z",
-                "open_issues": 219,
+                "open_issues": 220,
                 "owner": "mozilla-ai",
                 "repo": "llamafile",
-                "stars": 26522,
+                "stars": 26529,
                 "topics": [
                   "cross-platform",
                   "gguf",
@@ -10934,11 +10934,11 @@
                 "id": 634081686,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T11:03:31Z",
-                "open_issues": 362,
+                "last_commit": "2026-10-30T09:07:12Z",
+                "open_issues": 363,
                 "owner": "mlc-ai",
                 "repo": "mlc-llm",
-                "stars": 23285,
+                "stars": 23284,
                 "topics": [
                   "language-model",
                   "llm",
@@ -10964,7 +10964,7 @@
                 "open_issues": 191,
                 "owner": "karpathy",
                 "repo": "llama2.c",
-                "stars": 20227,
+                "stars": 20232,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -10985,7 +10985,7 @@
                 "open_issues": 525,
                 "owner": "kvcache-ai",
                 "repo": "ktransformers",
-                "stars": 19652,
+                "stars": 19649,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -11006,7 +11006,7 @@
                 "open_issues": 380,
                 "owner": "ggml-org",
                 "repo": "ggml",
-                "stars": 15556,
+                "stars": 15561,
                 "topics": [
                   "machine-learning"
                 ]
@@ -11025,11 +11025,11 @@
                 "id": 679366051,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T00:09:53Z",
-                "open_issues": 1853,
+                "last_commit": "2026-10-30T23:17:41Z",
+                "open_issues": 1855,
                 "owner": "NVIDIA",
                 "repo": "TensorRT-LLM",
-                "stars": 14974,
+                "stars": 14979,
                 "topics": [
                   "blackwell",
                   "cuda",
@@ -11056,7 +11056,7 @@
                 "open_issues": 134,
                 "owner": "Tiiny-AI",
                 "repo": "PowerInfer",
-                "stars": 9855,
+                "stars": 9857,
                 "topics": [
                   "large-language-models",
                   "llama",
@@ -11134,11 +11134,11 @@
                 "id": 654122609,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T13:42:52Z",
+                "last_commit": "2026-10-30T13:22:28Z",
                 "open_issues": 620,
                 "owner": "InternLM",
                 "repo": "lmdeploy",
-                "stars": 8125,
+                "stars": 8126,
                 "topics": [
                   "codellama",
                   "cuda-kernels",
@@ -11167,11 +11167,11 @@
                 "id": 819733173,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T14:58:47Z",
-                "open_issues": 871,
+                "last_commit": "2026-10-30T16:54:48Z",
+                "open_issues": 894,
                 "owner": "kvcache-ai",
                 "repo": "Mooncake",
-                "stars": 6922,
+                "stars": 6930,
                 "topics": [
                   "disaggregation",
                   "inference",
@@ -11203,7 +11203,7 @@
                 "open_issues": 111,
                 "owner": "meta-pytorch",
                 "repo": "gpt-fast",
-                "stars": 6267,
+                "stars": 6268,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -11220,11 +11220,11 @@
                 "id": 640177564,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T00:19:25Z",
+                "last_commit": "2026-10-30T00:52:34Z",
                 "open_issues": 360,
                 "owner": "ztxz16",
                 "repo": "fastllm",
-                "stars": 5127,
+                "stars": 5129,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -11245,7 +11245,7 @@
                 "open_issues": 162,
                 "owner": "turboderp-org",
                 "repo": "exllamav2",
-                "stars": 4646,
+                "stars": 4648,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -11262,7 +11262,7 @@
                 "id": 638609341,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-29T14:58:30Z",
+                "last_commit": "2026-10-30T16:45:47Z",
                 "open_issues": 22,
                 "owner": "SciSharp",
                 "repo": "LLamaSharp",
@@ -11320,7 +11320,7 @@
                 "open_issues": 36,
                 "owner": "RWKV",
                 "repo": "rwkv.cpp",
-                "stars": 1591,
+                "stars": 1590,
                 "topics": [
                   "deep-learning",
                   "ggml",
@@ -11442,10 +11442,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-27T21:28:24Z",
-                "open_issues": 111,
+                "open_issues": 112,
                 "owner": "bitsandbytes-foundation",
                 "repo": "bitsandbytes",
-                "stars": 8536,
+                "stars": 8535,
                 "topics": [
                   "llm",
                   "machine-learning",
@@ -11468,11 +11468,11 @@
                 "id": 790916393,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T00:27:21Z",
-                "open_issues": 536,
+                "last_commit": "2026-10-31T00:11:49Z",
+                "open_issues": 535,
                 "owner": "NVIDIA",
                 "repo": "Model-Optimizer",
-                "stars": 5468,
+                "stars": 5474,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -11489,11 +11489,11 @@
                 "id": 817962136,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T18:57:15Z",
-                "open_issues": 127,
+                "last_commit": "2026-10-30T22:17:48Z",
+                "open_issues": 132,
                 "owner": "vllm-project",
                 "repo": "llm-compressor",
-                "stars": 3928,
+                "stars": 3931,
                 "topics": [
                   "compression",
                   "quantization"
@@ -11517,7 +11517,7 @@
                 "open_issues": 209,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3657,
+                "stars": 3659,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -11555,8 +11555,8 @@
                 "id": 714073518,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T18:19:27Z",
-                "open_issues": 822,
+                "last_commit": "2026-10-30T21:19:14Z",
+                "open_issues": 827,
                 "owner": "pytorch",
                 "repo": "ao",
                 "stars": 3018,
@@ -11610,11 +11610,11 @@
                 "id": 816158613,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T13:04:08Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-30T14:10:32Z",
+                "open_issues": 7,
                 "owner": "ModelCloud",
                 "repo": "GPTQModel",
-                "stars": 1281,
+                "stars": 1283,
                 "topics": [
                   "gptq",
                   "optimum",
@@ -11640,10 +11640,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-26T09:45:47Z",
-                "open_issues": 4,
+                "open_issues": 7,
                 "owner": "huggingface",
                 "repo": "optimum-quanto",
-                "stars": 1054,
+                "stars": 1055,
                 "topics": [
                   "optimum",
                   "pytorch",
@@ -11777,7 +11777,7 @@
                 "open_issues": 2,
                 "owner": "GreenBitAI",
                 "repo": "green-bit-llm",
-                "stars": 187,
+                "stars": 188,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -11847,8 +11847,8 @@
                 "id": 281528773,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T08:18:20Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-30T13:04:01Z",
+                "open_issues": 31,
                 "owner": "intel",
                 "repo": "neural-compressor",
                 "stars": 2729,
@@ -11890,7 +11890,7 @@
                 "open_issues": 1,
                 "owner": "neuralmagic",
                 "repo": "sparseml",
-                "stars": 2143,
+                "stars": 2144,
                 "topics": [
                   "automl",
                   "computer-vision-algorithms",
@@ -12066,11 +12066,11 @@
                 "id": 807305060,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T23:08:12Z",
-                "open_issues": 903,
+                "last_commit": "2026-10-30T23:55:01Z",
+                "open_issues": 922,
                 "owner": "LMCache",
                 "repo": "LMCache",
-                "stars": 12232,
+                "stars": 12242,
                 "topics": [
                   "amd",
                   "cuda",
@@ -12133,7 +12133,7 @@
                 "open_issues": 99,
                 "owner": "microsoft",
                 "repo": "MInference",
-                "stars": 1230,
+                "stars": 1231,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -12150,8 +12150,8 @@
                 "id": 1270509963,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-29T22:33:23Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-30T19:04:07Z",
+                "open_issues": 6,
                 "owner": "Thanatos9404",
                 "repo": "llmslim",
                 "stars": 24,
@@ -12330,11 +12330,11 @@
                 "id": 725205304,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T23:56:00Z",
-                "open_issues": 431,
+                "last_commit": "2026-10-31T00:14:15Z",
+                "open_issues": 495,
                 "owner": "unslothai",
                 "repo": "unsloth",
-                "stars": 78766,
+                "stars": 78826,
                 "topics": [
                   "agent",
                   "ai",
@@ -12373,10 +12373,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-29T04:03:03Z",
-                "open_issues": 1208,
+                "open_issues": 1209,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75780,
+                "stars": 75799,
                 "topics": [
                   "agent",
                   "ai",
@@ -12414,11 +12414,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T00:19:55Z",
-                "open_issues": 1859,
+                "last_commit": "2026-10-31T00:13:10Z",
+                "open_issues": 1930,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18294,
+                "stars": 18301,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -12440,10 +12440,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-28T18:02:40Z",
-                "open_issues": 322,
+                "open_issues": 323,
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13736,
+                "stars": 13738,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -12472,7 +12472,7 @@
                 "open_issues": 107,
                 "owner": "Lightning-AI",
                 "repo": "lit-llama",
-                "stars": 6082,
+                "stars": 6083,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:26.130Z"
@@ -12586,7 +12586,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2024-12-03T20:52:37Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "RahulSChand",
                 "repo": "gpu_poor",
                 "stars": 1402,
@@ -12733,11 +12733,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-29T23:06:49Z",
-                "open_issues": 690,
+                "last_commit": "2026-10-30T23:20:04Z",
+                "open_issues": 698,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 148677,
+                "stars": 148740,
                 "topics": [
                   "agents",
                   "ai",
@@ -12863,7 +12863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T00:29:49.266Z",
+    "last_updated": "2026-10-31T00:14:40.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM compression research papers and tools.",
@@ -12875,7 +12875,7 @@
       "open_issues": 0,
       "owner": "HuangOwen",
       "repo": "Awesome-LLM-Compression",
-      "stars": 1889,
+      "stars": 1890,
       "topics": []
     },
     "original_repository_sha": "dfdb484f5cc8e03d81e02e147429a3778c99c2d4",
